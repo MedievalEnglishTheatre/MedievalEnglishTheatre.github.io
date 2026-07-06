@@ -1,0 +1,51 @@
+---
+layout: page
+title:  "Medieval English Theatre 23: Summaries"
+banner_image: "/assets/meth_title.jpg"
+banner_alt: "METh Banner"
+permalink: /journal/summaries/summaries_23.html
+---
+
+## Volume Twenty-Three (2001): Summaries  
+
+### <a  name="Rogerson" id="Rogerson"> </a>Margaret Rogerson
+
+'Rediscovering Richard Eurich's *York Festival Triptych* '   *METh 23* (2001) 3–16.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/permission_request.pdf) 
+
+### <a  name="Mand" id="Mand"> </a>Anu Mänd
+
+'Devils of Baltic Towns in the Context of Late-Medieval German Tradition'   *METh 23* (2001) 17-33.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/permission_request.pdf) 
+
+### <a  name="Horner" id="Horner"> </a>Olga Horner
+
+'The Law That Never Was: A Review of Theatrical Censorship in Britain'   *METh 23* (2001) 34–96.
+
+Evidence from statutes, official orders and Parliamentary Committees proving there was no law ( *per se*, only the Lord Chamberlain's ban (for religious and political purposes), on dramatic representations of God. Extracts from official letters and counsel's opinion explain how and why the 1951 York Mystery Cycle production was not banned.     
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/23horner.pdf) 
+
+### <a  name="Gras" id="Gras"> </a>Henk Gras
+
+'Theatre by the Book? Some Thoughts on Kipling's Fouquet'   *METh 23* (2001) 97-99.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/permission_request.pdf) 
+
+### <a  name="Twycross" id="Twycross"> </a>Meg Twycross with Malcolm Jones &amp; Alan Fletcher
+
+''Fart Pryke in Cule': The Pictures'   *METh 23* (2001) 100-121.
+
+After the publication of Peter Meredith's article in *METh 6:1* and Alan Fletcher's in *METh 8:2* on the mysterious game of 'Fart Pryke in Cule' played by A and B in *Fulgens and Lucres*, pictorial evidence of how it might have been played has come to light. Alan Fletcher found a photograph of it being played on shipboard en route for the Cape in 1894, and Malcolm Jones came up with two misericords of exactly the right date and areas for Medwall, one from St George's Chapel, Windsor Castle, and one from Henry VII's Chapel in Westminster Abbey. (Medwall was a scholar at Eton between 1475–1480, and a notary at Windsor in 1489.) Jones suggests that there may have been a Flemish source for the design, and Twycross finds a Spanish misericord by Flemish artists also of the right period. In this joint article, Twycross draws all this evidence together, provides further documentary evidence for the dating, and suggests practical adjustments to the way in which it was performed in the Joculatores Lancastrienses production of 1984.      
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/23twycross.pdf) 
+
+### <a    name="Butterworth"   id="Butterworth"> </a>Philip Butterworth
+
+'Prompting in Full View of the Audience: The Groningen Experiment'   *METh 23* (2001) 122–171.
+
+This paper examines issues raised by a production of the Towneley *Second Shepherds' Play* at the SITM Colloquium, Groningen, Netherlands in 2001. The purpose of the production was to examine the statement made by Richard Carew in his *Survey of Cornwall* (1602) concerning the 'Ordinary' whose function was to prompt in full view of the audience. Scenes from the play were played with different emphases in relation to the prompter's role. International scholars from the audience contribute their responses to the analysis.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/23butterworth.pdf) 
+
+----
+   
+ [  Volume 23  ](../vol23.html) 
+ [  Volume Index  ](../volindex.html#23)   
+

@@ -1,0 +1,71 @@
+---
+layout: page
+title:  "Medieval English Theatre 22: Summaries"
+banner_image: "/assets/meth_title.jpg"
+banner_alt: "METh Banner"
+permalink: /journal/summaries/summaries_22.html
+---
+
+## Volume Twenty-Two (2000): Summaries  
+
+### <a  name="Mills" id="Mills"> </a>David Mills
+
+'The 'Now' of 'Then''  *METh 22* (2000) 3–12.
+
+The paper addresses attitudes to the past in the play-cycles. Cycles such as York, like medieval literary texts, re-create the past in the image of the present, using 'anachronism'. In contrast, Chester emphasises the 'pastness' of both its biblical material and the cycle itself in relation to present beliefs and expectations. Its *Antichrist* play, with its contemporary allusions and insistence upon faith and the sacraments, exemplifies Chester's transformation of the medieval cycle play into something akin to a history play.     
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/22mills.pdf) 
+
+### <a  name="King" id="King"> </a>Pamela M. King
+
+'The York Plays and the Feast of Corpus Christi: a Reconsideration.'   *METh 22* (2000) 13-32.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/22king.pdf) 
+
+### <a  name="Dillon" id="Dillon"> </a>Janette Dillon
+
+'Performance Time: Suggestions for a Methodology of Analysis.'   *METh 22* (2000) 33-51.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/22dillon.pdf) 
+
+### <a  name="walker" id="walker"> </a>Greg Walker
+
+''Fail Nocht to Teme your Bleddir': Passing Time in Sir David Lindsay's *Ane Satyre of the Thrie
+Estaitis* '   *METh 22* (2000) 52–58.
+
+The text and banns of Lindsay's *Satyre* stress the practical implications of the play's long duration, enjoining spectators to attend carefully to the filling and emptying of their bladders. It is also concerned with different timeframes: immediate, historical, and eschatological. This paper teases out the treatment of these timeframes, and the interrelated motifs of communal drinking, drunkenness, and urination.     
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/22walker.pdf) 
+
+### <a  name="Suematsu" id="Suematsu"> </a>Yoshimichi Suematsu
+
+'A Report on the Children's Kabuki in Tonami and Komatsu, Japan.'   *METh 22* (2000) 59-69.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/22suematsu.pdf) 
+
+### <a  name="Pettitt" id="Pettitt"> </a>Thomas Pettitt
+
+'“This Man is Pyramus”: A Pre-history of the English Mummers' Plays.'   *METh 22* (2000) 70-99.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/22pettitt.pdf) 
+
+### <a  name="Mattingly" id="Mattingly"> </a>Joanna Mattingly
+
+'Lollards Stop Play? a Curious Case of Non-Performance in 1505.'   *METh 22* (2000) 100-111.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/permission_request.pdf) 
+
+### <a  name="Marty" id="Marty"> </a>Paulette Marty
+
+'The Coventry Hock Tuesday Play: Its Origin and Relationship to Hocktid.'   *METh 22* (2000) 112-126.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/permission_request.pdf) 
+
+### <a  name="williamson" id="williamson"> </a>Eila Williamson
+
+'Drama and Entertainment in Peebles in the Fifteenth and Sixteenth Centuries'   *METh 22* (2000) 127–144.
+
+This article examines drama and entertainment in Peebles as evidenced by the fifteenth and sixteenth century burgh records together with literary evidence.' Particular focus is directed to the career of John Morchoson, 'abbot of unrest', and to the poem 'Peblis to the Play'.     
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/permission_request.pdf) 
+
+### <a  name="Carpenter" id="Carpenter"> </a>Sarah Carpenter &amp; Graham Runnalls
+
+'The Entertainments at the Marriage of Mary Queen of Scots and the French Dauphin François, 1558: Paris and Edinburgh.'   *METh 22* (2000) 145-161.  
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/22carpenter.pdf)   
+
+----
+ [  Volume 22  ](../vol22.html) 
+ [  Volume Index  ](../volindex.html#22)   
+

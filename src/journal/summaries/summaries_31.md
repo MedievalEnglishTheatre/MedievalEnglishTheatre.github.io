@@ -1,0 +1,63 @@
+---
+layout: page
+title:  "Medieval English Theatre 31: Summaries"
+banner_image: "/assets/meth_title.jpg"
+banner_alt: "METh Banner"
+permalink: /journal/summaries/summaries_31.html
+---
+
+## Volume Thirty-One (2009): Summaries  
+
+### <a  name="Carpenter" id="Carpenter"> </a>Sarah Carpenter
+
+'New Evidence: Vives and Audience-Response to Biblical Drama'   *METh 31* (2009) 3–12.
+
+There are almost no contemporary accounts of audience response to early theatre. A valuable but largely forgotten piece of evidence appears in the commentary by Vives, first published in 1522, on Book 8 chapter 27 of St Augustine's *City of God*. He compares Roman shows in honour of the gods or of the dead to contemporary Passion Plays, presumably in Leuven. He is suspicious of popular biblical drama and what he sees as the audience's uncomprehending emotional reactions to it. For us the interest lies in his report of the unexpectedly noisy and engaged audience participation, especially with laughter, which seems more characteristic of modern popular rather than 'serious' theatre.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/31carpenter.pdf) 
+
+### <a  name="Rycroft" id="Rycroft"> </a>Eleanor Rycroft
+
+'*The Play of The Weather* in Performance in the Great Hall at Hampton Court'   *METh 31* (2009) 13–27.
+
+reports on the AHRC-funded project 'Staging the Henrician Court', a collaboration between Oxford Brookes and Edinburgh Universities, with the cooperation of Historic Royal Palaces. The main focus of this was a series of experimental productions of Heywood's *Play of the Weather* in the Great Hall at Hampton Court. The report speculates on the nuances and tone of courtly performance, and Heywood's resultant attitude to his characters. It discusses significant staging decisions (not to have a substitute 'Henry' in the audience, not to use male actors in female roles), with a particular interest in the physical placing of the audience, and in the lighting, simulated in ingenious ways compatible with Health and Safety. Also discussed are the advantages and disadvantages of collaboration between academic and professional theatre practitioners, and the conservation constraints on planning a production in a major historical venue. Discussions afterwards turned up other possibilities, such as the adoption of more emblematic costume, and the use of boys as actors.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/31rycroft.pdf) 
+
+### <a    name="Steenbrugge"   id="Steenbrugge"> </a>Charlotte Steenbrugge
+
+''O, yowr louely wordys': Latin and Latinate Diction in *Mankind* '  *METh 31* (2009) 28–57.
+
+Revisits an argument that the use of Latin and Latinate diction in *Mankind*, and the attitude of the Vices (and therefore of the audience) to this reflects an ongoing Wycliffite debate about the use of Latin and the vernacular in contemporary religious life. By analysing the proportion of Latin and Latin-derived words in the speech of the characters, their likely familiarity or apparent exoticism, and the different contexts from which such diction is drawn, this paper suggests a more nuanced view of its possible reception by the audience.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/31steenbrugge.pdf) 
+
+### <a  name="Mills" id="Mills"> </a>David Mills
+
+'No Place Like Home: The Northampton 'Abraham and Isaac' Play, a Re-Appraisal'   *METh 31* (2009) 45–62.
+
+Six late medieval English biblical plays treat of the story of Abraham and Isaac. The playwrights had to explain and justify God's apparently cruel and arbitrary command to Abraham that he should sacrifice his only son. Though they came up with a theological explanation, the Northampton playwright seems to have difficulties with this, and is more interested in how the various characters react within their roles in a patriarchal household, and with the emotions they are licensed to display.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/31mills.pdf) 
+
+### <a  name="Johnston" id="Johnston"> </a>Alexandra F. Johnston
+
+'Touring Players in the Early Years of Elizabeth: What were they Playing?'   *METh 31* (2009) 72–88.
+
+There is a popular conception that all plays dealing with religion or government were banned by the legislation sucessively of Edward VI and ELizabeth I. There was however a loophole which allowed even such performances provided they were licensed by the Privy Council and their agents, as they were a useful form of propaganda. Records of Early English Drama has shown considerable activity by travelling players under the patronage of of members of the Privy COuncil and their associates. Clues to their repertoire include a strongly Protestant message, and epilogues which specifically pray for the Council and local magistrates, as well as for the Queen and her role in spreading the Gospel.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/31johnston.pdf) 
+
+### <a  name="Sergi" id="Sergi"> </a>Matthew Sergi
+
+'Festive Piety: Staging Food and Drink at Chester'   *METh 31* (2009) 89–136.
+
+An astonishing amount of food is mentioned and apparently consumed onstage in Chester's Whitsun plays. This seems to reflect the public feasting that went on offstage as part of the guild celebrations of the festival. Starting with the Painters' and Glaziers' Shepherds play, this article assesses in detail; the contemporary perception of eating and drinking in the Plays, and suggests that it does not invoke Eucharistic imagery as at York (except in those specific incidents) but is a playful version of permitted festive indulgence reaffirming both social bonds and the place of faith within them.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/31sergi.pdf)   
+
+----
+
+ [  Volume 31  ](../vol31.html) 
+ [  Volume Index  ](../volindex.html#31)   
+

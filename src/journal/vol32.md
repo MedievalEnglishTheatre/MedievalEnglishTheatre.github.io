@@ -1,0 +1,39 @@
+---
+title:  "Medieval English Theatre 32"
+layout: volume
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol32.html
+volume_number: 32
+---
+
+## VOLUME THIRTY-TWO (2010):
+
+ 
+
+Subscription for 2010: £12 plus current P&amp;P.  
+
+|CONTENTS|  
+{: .issueHeader-table}
+
+|AUTHOR|TITLE                |Pages|
+|-------|-------|-------|   
+|<a  name="Mills" id="Mills"> </a>David Mills|A Tale of Two Cities: Chester and Coventry in the 1490s  [Summary and PDF](summaries/summaries_32.html#Mills) |3 – 11|  
+|<a  name="Meacham" id="Meacham"> </a>Thomas Meacham|Exchanging Performative Words: Epistolary Performance and University Drama in Late Medieval England   [Summary and PDF](summaries/summaries_32.html#Meacham) |12 – 25|  
+|<a  name="Kipling" id="Kipling"> </a>Gordon Kipling|The Design and Construction of Royal Entries in the Late Middle Ages   [Summary and PDF](summaries/summaries_32.html#Kipling) |26 – 61|  
+|<a  name="Chacón" id="Chacón"> </a>Vicente Chacón Carmona|Singing Shepherds, Discordant Devils: Music and Song in Medieval Pastoral Plays  [Summary and PDF](summaries/summaries_32.html#Chac%EF%BF%BDn) |62 – 80|  
+|<a  name="Twycross" id="Twycross"> </a>Meg Twycross| *Neque vox neque sensus*: The Resuscitation of Wit in *Wit and Science*   [Summary and PDF](summaries/summaries_32.html#Twycross) |81 – 115|  
+{: .issueContents-table}
+
+To order this volume:
+<img      src="/assets/covers/vol32vsm.jpg"/> <a  name="32" id="32"> </a>Volume Thirty-Two(2010)       price £15 plus current p&amp;p.
+
+Go to [the Back Numbers page](back_nos.html) and download the Back Numbers Order Form. Fill it in, and send it as an attachment by e-mail to:   medieval-english-theatre@lancaster.ac.uk  
+or, exceptionally, by post to:   Medieval English Theatre, c/o Department of English and Creative Writing, Lancaster University, LANCASTER LA1 4YD, UK.  
+We will then invoice you for the cost of the journal plus current postage and packing.
+
+ 
+
+To order and pay by credit card via PayPal (recommended for overseas orders), at a slightly enhanced rate, go to [Back Numbers page](back_nos.html).
+
+
+

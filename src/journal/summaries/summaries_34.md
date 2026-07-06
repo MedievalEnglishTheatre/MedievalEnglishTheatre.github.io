@@ -1,0 +1,46 @@
+---
+layout: page
+title:  "Medieval English Theatre 34: Summaries"
+banner_image: "/assets/meth_title.jpg"
+banner_alt: "METh Banner"
+permalink: /journal/summaries/summaries_34.html
+---
+
+## Volume Thirty-Four (2012): Summaries  
+
+### <a  name="Wright" id="Wright"> </a>Clare Wright
+
+Acoustic Tyranny: Metre, Alliteration and Voice in *Christ before Herod*    *METh 34* (2012) 3–29.
+
+Explores the effects of metre and alliteration in performance. Focusing on Herod's opening speech, it is argued that the playwright makes full use of the flexibility of the alliterative verse form to simulate aurally the experience of tyranny.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/34wright.pdf) 
+
+### <a  name="Parsons" id="Parsons"> </a>Ben Parsons and Bas Jongenelen
+
+'In Which Land Were You Born?': Cultural Transmission in the *Historie van Jan van Beverley*    *METh 34* (2012) 30-76.
+
+A translation of the Dutch chapbook 'play' of St John of Beverley, a sensational tale of incestuous rape, murder, a wildman hermit, and eventual absolution. The introduction examines ties between medieval Beverley and the Low Countries to explain the text's genesis, and discusses the possibility of an earlier English saint's play on the subject.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/34parsons.pdf) 
+
+### <a  name="Nixon" id="Nixon"> </a>Bobby D. Nixon
+
+The Portrayal of 'Susanna and the Elders' in Medieval Spanish Texts   *METh 34* (2012) 77-95.
+
+Explores how the Biblical Susanna is characterized in sixteenth-century Spanish religious drama as the 'historical' archetype for a heroine that was willing to die in order to preserve her chastity and remain faithful to her spouse. Demonstrates that this portrayal is rooted in Medieval chronicles from Castile and in Middle Age romances on the topic of the falsely accused maiden who possesses the virtues of the godly woman as required by the mores of the Counter-Reformation.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/34nixon.pdf) 
+
+### <a  name="Twycross" id="Twycross"> </a>Meg Twycross
+
+ *Virtuous and Godly Susanna*: Exemplum and Allegory   *METh 34* (2012) 96-154.
+
+Using Thomas Garter's *Virtuous and Godly Susanna* as a case study, looks at the 'hybrid' plays of the mid sixteenth century as a blend of *exemplum* and allegory, and considers what and how each genre contributes to the play's meaning. Discusses the peculiar aptness of the Vice Ill Report to the legal setting, and asks why this group of plays seems to be addressed to a female audience. An Appendix discusses the traditional figure of Esther as suppliant queen, and why the biblical narrative might have been altered in the play of *Godly Queen Hester*.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/34twycross.pdf)   
+----
+
+ [  Volume 34  ](../vol34.html) 
+ [  Volume Index  ](../volindex.html#34)   
+

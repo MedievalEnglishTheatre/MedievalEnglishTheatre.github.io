@@ -1,0 +1,54 @@
+---
+layout: page
+title:  "Medieval English Theatre 32: Summaries"
+banner_image: "/assets/meth_title.jpg"
+banner_alt: "METh Banner"
+permalink: /journal/summaries/summaries_32.html
+---
+
+## Volume Thirty-Two (2010): Summaries  
+
+### <a  name="Mills" id="Mills"> </a>David Mills
+
+'A Tale of Two Cities: Chester and Coventry in the 1490s'   *METh 32* (2010) 3–11.
+
+Compares the economic and political circumstances of the two cities at the end of the fifteenth century, and determines how far these affected the future development of their respective Plays.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/32mills.pdf) 
+
+### <a  name="Meacham" id="Meacham"> </a>Thomas Meacham
+
+'Exchanging Performative Words: Epistolary Performance and University Drama in Late Medieval England'   *METh 32* (2010) 12–25.
+
+Argues that 'university drama did happen before the Tudor period', provided we extend our image from a narrow perception of 'drama' to other forms of performance, most notably that of the art of letter-writing. Training in the *ars dictaminis* included not only invention (often of fictional situations), but also delivery; potential examples are cited from the work of Thomas Chaundler, especially the *Liber apologeticus*.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/32meacham.pdf) 
+
+### <a  name="Kipling" id="Kipling"> </a>Gordon Kipling
+
+'The Design and Construction of Royal Entries in the Late Middle Ages'   *METh 32* (2010) 26–61.
+
+'Spectacle by committee': using case histories from Nevers, Bruges, London, Poitiers, Paris, and Tours, explores the mechanisms by which civic councillors, visual artists, writers, and various craftsmen cooperated in the planning and production of a Royal Entry, and the status of the various surviving documents, verbal and visual, which scholars have been accustomed to read as straight reportage of the event. Shows why there was often a degree of slippage between the device and its execution, and between the texts which were written for the pageants and the living images they were meant to accompany. Assesses the roles of artists and writers such as Fouquet, Holbein, Lydgate, Bouchet, and Remy Du Puys in the final confection.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/32kipling.pdf) 
+
+### <a  name="Chacón" id="Chacón"> </a>Vicente Chacón Carmona
+
+'Singing Shepherds, Discordant Devils: Music and Song in Medieval Pastoral Plays'   *METh 32* (2010) 62–80.
+
+Looks at the role of music (and cacophony) in late medieval and early renaissance Shepherds Plays from England, France, and the Iberian peninsula, and finds that they have a surprising number of features in common.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/permission_request.pdf) 
+
+### <a  name="Twycross" id="Twycross"> </a>Meg Twycross
+
+' *Neque vox neque sensus*: The Resuscitation of Wit in *Wit and Science* '   *METh 32* (2010) 81–115.
+
+Rejecting, on chronological grounds, the idea that the death and resurrection of Wit is based on the Hero Combat of the mummers' plays, pursues another clue which leads to an investigation of possible sources in stories of resuscitation from the Bible, hagiography, the history of medicine, and possible real-life experience.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/32twycross.pdf)   
+----
+
+ [  Volume 32  ](../vol32.html) 
+ [  Volume Index  ](../volindex.html#32)   
+

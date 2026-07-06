@@ -1,0 +1,50 @@
+# _data/navigation.yml
+- name: Home
+  link: /
+- name: Society
+  link: /society/
+  dropdown:
+    - name: Application Form
+      link: /society/apply_2026.pdf
+    - name: Society Committee
+      link: /society/soccomm.html
+    - name: Society Constitution
+      link: /society/socconst.html
+- name: Meetings
+  link: /meetings/
+  dropdown:
+    - name: This Year
+      link: /meetings/
+    - name: Past Meetings
+      link: /meetings/meet_past.html
+- name: Journal 
+  link: /journal/
+  dropdown:
+    - name: Volume Index
+      link: /journal/volindex.html
+    - name: Author Index
+      link: /journal/cumindac.html
+    - name: Online References
+      link: /journal/URLS/
+    - name: Boydell &amp; Brewer
+      link: https://boydellandbrewer.com/search-results/?series=medieval-english-theatre
+    - name: Back Numbers
+      link: /journal/back_nos.html
+    - name: METh Texts
+      link: /journal/sales_texts.html
+    - name: Editorial Board
+      link: /journal/methedit.html
+    - name: For Authors 
+      link: /journal/authors.html
+- name: Other
+  link: /other/
+  dropdown:
+    - name: Links
+      link: /other/links.html
+    - name: Videos
+      link: /other/videos.html
+    - name: Site Map
+      link: /other/sitemap.html
+- name: News
+  link: /news/
+    

@@ -1,0 +1,88 @@
+---
+layout: page
+title:  "Medieval English Theatre 27: Summaries"
+banner_image: "/assets/meth_title.jpg"
+banner_alt: "METh Banner"
+permalink: /journal/summaries/summaries_27.html
+---
+  
+## Volume Twenty-Seven (2005): Summaries  
+
+### <a  name="Mills" id="Mills"> </a>David Mills
+
+'I know my place: some thoughts on status and station in the English mystery plays'   *METh 27* (2005) 5–15.
+
+Taking examples primarily of Pilate in York's Play 30 and the shepherds in Chester's Play 7, explores the use of physical space to place characters in relation to their fellow characters in the plays and to the audience outside the action. Suggests that the differences between the two approaches reveal priorities and presuppositions implicit in their different urban societies.
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/27mills.pdf) 
+
+### <a  name="Happe" id="Happe"> </a>Peter Happé
+
+''The restless mind that would never raging leave': Jasper Heywood's *Thyestes*'   *METh 27* (2005) 16–33.
+
+Attempts to place Jasper Heywood's version of the tragedy in several contexts: Seneca's life; Heywood's purpose in carrying out the translation and adaptation; the work's relationship to Heywood's life; and some considerations of the textual bibliography at the time.
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/27happe.pdf) 
+
+### <a    name="Scattergood"   id="Scattergood"> </a>John Scattergood
+
+''Familier and homely': the intrusion and articulation of vice in Skelton's *Magnyfycence*'   *METh 27* (2005) 34–52.
+
+To come.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/27scattergood.pdf) 
+
+### <a  name="Cavanagh" id="Cavanagh"> </a>Dermot Cavanagh
+
+'Skelton's *Magnyfycence* and tragic drama'   *METh 27* (2005) 53–68.
+
+Argues that Skelton's *Magnyfycence* explores the dilemma of political life in a tragic mode that anticipates the 'tyrant' plays of the later sixteenth century. This derives from the play's focus on the virtue of temperance; when rulers abandon this principle it leads to political catastrophe.
+
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/27cavanagh.pdf) 
+
+### <a  name="Evershed" id="Evershed"> </a>Elizabeth Evershed
+
+'Meet for merchants? some implications of situating Skelton's *Magnyfycence* at the Merchant Tailors' Hall'   *METh 27* (2005) 69–85.
+
+
+Considers the possibility that *Magnyfycence* was designed for performance in the hall of a major guild company, specifically that of the Merchant Tailors in London. It draws on the history of the company to examine how such a performance context could inform our reading of this Skelton play.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/27evershed.pdf) 
+
+### <a  name="Walker" id="Walker"> </a>Thomas Betteridge and Greg Walker
+
+'Performance as research: staging John Heywood's *Play of the Weather* at Hampton Court Palace'   *METh 27* (2005) 86–104.
+
+Discusses the implications of a performance of selected scenes from Heywood's *Play of the Weather* in the Great Hall at Hampton Court on 10 May 2007.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/27betteridge.pdf) 
+
+### <a  name="King" id="King"> </a>Pamela M. King
+
+'The Renaissance of medieval theatre and the growth of university drama in England'   *METh 27* (2005) 105–130.
+
+Drawing on unpublished archive holdings from the Bristol University Theatre Collection, investigates the intersection between the movement which resulted in drama being accepted as a legitimate and autonomous university subject, and the parallel campaign against the established conventions of censoring religious theatre in the United Kingdom.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/27king.pdf) 
+
+### <a  name="Baldwin" id="Baldwin"> </a>Elizabeth Baldwin
+
+'A Note on the Chester pageant route'   *METh 27* (2005) 131–132.
+
+A variant on a saint's name seems to confirm one theory about a section of the route of the Chester Whitsun Plays.
+
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/27baldwin.pdf) 
+
+### <a  name="Coventry" id="Coventry"> </a>Reports on Productions
+
+'The Mysteries: Coventry Cathedral, 1 August 2006'   *METh 27* (2005) 133–136.
+
+Reviewed by Pamela M. King.
+
+ [<img  src="/assets/pdfteal.jpg"/>](../pdfs/27kingcov.pdf)   
+
+
+----
+ [  Volume 27  ](../vol27.html) 
+ [  Volume Index  ](../volindex.html#27)   
+

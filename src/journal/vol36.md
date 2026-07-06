@@ -1,0 +1,36 @@
+---
+title:  "Medieval English Theatre 36"
+layout: volume
+banner_image: "/assets/meth_title.jpg"
+permalink: /journal/vol36.html
+volume_number: 36
+---
+
+## VOLUME THIRTY-SIX (2014):
+
+ 
+Subscription for 2014: £15 plus current P&amp;P.  
+
+|CONTENTS|  
+{: .issueHeader-table}
+
+|AUTHOR|TITLE |Pages|
+|-------|-------|-------|  
+|<a  name="sergi" id="sergi"> </a>Matthew Sergi|Beyond Theatrical Marketing: Play Banns in the Records of Kent, Sussex, and Lincolnshire [Summary and PDF](summaries/summaries_36.html#sergi) |3 – 23|  
+|<a  name="mcbain" id="mcbain"> </a>James McBain|Recycling Authority: John Bale at Magdalen? [Summary and PDF](summaries/summaries_36.html#mcbain) |24 – 47|  
+|<a  name="Atkin" id="Atkin"> </a>Tamara Atkin|'The Personages that Speake': Playing with Parts in Early Printed Drama  [Summary and PDF](summaries/summaries_36.html#atkin) |48 – 69|  
+|<a  name="Egan" id="Egan"> </a>Clare Egan|–Now Fearing neither Friend nor Foe, to the Worldes Viewe these Verses goe–: Mapping Libel Performance in Early-Modern Devon [Summary and PDF](summaries/summaries_36.html#egan) |70 – 103|  
+|<a  name="Johnston" id="Johnston"> </a>Alexandra F. Johnston|The Puzzle of the N.Town Manuscript Revisited [Summary and PDF](summaries/summaries_36.html#johnston) |104 – 123|  
+{: .issueContents-table}
+
+To order this volume:
+<img   src="/assets/covers/vol36vsm.jpg"/><a  name="36" id="36"> </a>Volume Thirty-Six(2014)  price £15 plus current p&amp;p.
+
+Go to [the Back Numbers page](back_nos.html) and download the Back Numbers Order Form. Fill it in, and send it as an attachment by e-mail to:  medieval-english-theatre@lancaster.ac.uk  
+or, exceptionally, by post to:  Medieval English Theatre, c/o Department of English and Creative Writing, Lancaster University, LANCASTER LA1 4YD, UK.  
+We will then invoice you for the cost of the journal plus current postage and packing.
+
+ 
+
+To order and pay by credit card via PayPal (recommended for overseas orders), at a slightly enhanced rate, go to [Back Numbers page](back_nos.html).
+
