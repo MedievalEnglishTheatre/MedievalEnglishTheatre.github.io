@@ -16,7 +16,7 @@
 title: Medieval English Theatre  
 #email: james@blushingbunny.net
   # keywords: medieval theatre, mediaeval theatre, medieval theater, mediaeval theater, early theatre, European theatre, sixteenth-century theatre, audiences, Lille, Saint's plays, Fouquet, St Apollonia, Medieval French drama, York Plays, interludes, Mystery Plays, court entertainments, biblical plays, pageants, guilds, York, theatre research, Toronto, PLS
-description: A website for the Medieval English Theatre (METh) society.
+description: A website for the Medieval English Theatre (METh) society
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://MedievalEnglishTheatre.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
@@ -28,7 +28,7 @@ show_date: true
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: 
 plugins:
   - jekyll-feed
 
