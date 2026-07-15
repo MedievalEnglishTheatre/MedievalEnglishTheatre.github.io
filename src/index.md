@@ -10,11 +10,13 @@ METh also organises an annual conference meeting each year at a different locati
 theme.
 
 ## Next Meeting  
-> **MEDIEVAL ENGLISH THEATRE MEETING 2026**
+> **MEDIEVAL ENGLISH THEATRE MEETING 2027**
 >
-> **REGISTRATION for the 2026 MEETING at Durham is now open.**  
-> Saturday 28th March, at the **University of Durham**, hosted by **Mark Chambers**.
-> The topic is **Theatre in the Archives: a REED Retrospective**.
+> 9 - 10th April 2027, at the Université de Fribourg, Switzerland, hosted by Elisabeth Dutton and the WOMARD Project
+> The topic is **Narratives of Family and Sacrifice**.
+>  
+> [More information](/meetings/meet_2027/) will be available in due course.
+
 
 <img src="/assets/banner_sm.jpg" style="margin:auto;width:240px;display:block;"/>
 

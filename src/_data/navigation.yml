@@ -13,8 +13,8 @@
 - name: Meetings
   link: /meetings/
   dropdown:
-    - name: This Year
-      link: /meetings/
+    - name: Next Meeting
+      link: /meetings/meet_2027/
     - name: Past Meetings
       link: /meetings/meet_past.html
 - name: Journal 
