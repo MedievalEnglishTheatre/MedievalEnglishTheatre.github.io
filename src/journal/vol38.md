@@ -38,14 +38,14 @@ volume_number: 38
 ### BUY THIS VOLUME  
 <a  name="38" id="38"> </a>Volume Thirty-Eight (2016)  
 The Best Pairt of our Play. Essays presented to John J. McGavin. Part II  
-Print version: –25 / $34.95  
-Ebook (EPDF): –19.99 / $24.99: accessible via JSTOR from subscribing libraries.<img   src="/assets/JSTOR_logo_sm.jpg"  align="middle"/>
+Print version: £25 / $34.95  
+Ebook (EPDF): £19.99 / $24.99: accessible via JSTOR from subscribing libraries.<img   src="/assets/JSTOR_logo_sm.jpg"  align="middle"/>
 
  
 
 Non-Society members, libraries, and other institutions should order from the publisher Boydell &amp; Brewer,
 
-- through [ **their website** ](https://boydellandbrewer.com/9781843844518/medieval-english-theatre-38/),
+- through [ **their website** ](https://boydellandbrewer.com/medieval-english-theatre-38-9781843844518/),
 - by e-mail to trading@boydell.co.uk, or
 - by post to: Boydell &amp; Brewer Ltd, PO Box 9, Woodbridge, Suffolk, IP12 3DF, UK (telephone 01394 610 600).
 

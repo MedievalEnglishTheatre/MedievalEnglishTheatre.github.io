@@ -41,7 +41,7 @@ Passion*, *Doomsday* ) (review of National Theatre production)|54–57|
 |<a  name="Muir" id="Muir"> </a>Lynette R. Muir|Women on the Medieval Stage: The Evidence from France|107–119|  
 To order this volume:
 <img   src="/assets/covers/vol07sm.gif"/>
-<a  name="07" id="07"> </a>Volume Seven(1985)
+<a  name="07" id="07"> </a>Volume Seven (1985)
 
 Volume Seven is currently out of print. We hope to reprint it on demand in the near future.
 ----

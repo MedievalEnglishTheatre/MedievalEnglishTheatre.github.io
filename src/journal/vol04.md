@@ -40,7 +40,7 @@ Pleyinge* |48–55|
 {: .issueContents-table}
 
 To order this volume:
-<img   src="/assets/covers/vol04sm.gif"/> <a  name="04" id="04"> </a>Volume Four(1982)
+<img   src="/assets/covers/vol04sm.gif"/> <a  name="04" id="04"> </a>Volume Four (1982)
 
 Volume Four is currently out of print. We hope to reprint it on demand in the near future.
 

@@ -36,7 +36,7 @@ Ebook (EPDF): £19.99 / $24.99
 
 Non-Society members, libraries, and other institutions should order from the publisher Boydell &amp; Brewer,
 
-- through [ **their website** ](https://boydellandbrewer.com/9781843844990/medieval-english-theatre-39/),
+- through [ **their website** ](https://boydellandbrewer.com/book/medieval-english-theatre-39-9781843844990/),
 - by e-mail to trading@boydell.co.uk, or
 - by post to: Boydell &amp; Brewer Ltd, PO Box 9, Woodbridge, Suffolk, IP12 3DF, UK (telephone 01394 610 600).
 

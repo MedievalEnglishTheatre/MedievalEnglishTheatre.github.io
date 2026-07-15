@@ -30,7 +30,7 @@ Summaries of articles are now becoming available: *see links below*.
 {: .issueContents-table}
 
 To order this volume:
-<img   src="/assets/covers/vol24sm.gif"/> <a  name="24" id="24"> </a>Volume Twenty-Four(2002)  price £9 plus current p&amp;p.
+<img   src="/assets/covers/vol24sm.gif"/> <a  name="24" id="24"> </a>Volume Twenty-Four (2002)  price £9 plus current p&amp;p.
 
 Go to [the Back Numbers page](back_nos.html) and download the Back Numbers Order Form. Fill it in, and send it as an attachment by e-mail to:  medieval-english-theatre@lancaster.ac.uk  
 or, exceptionally, by post to:  Medieval English Theatre, c/o Department of English and Creative Writing, Lancaster University, LANCASTER LA1 4YD, UK.  

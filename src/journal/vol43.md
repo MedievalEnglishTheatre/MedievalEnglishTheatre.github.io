@@ -28,23 +28,20 @@ volume_number: 43
 
 ### BUY THIS VOLUME  
 
-<a  name="43" id="43">Volume Forty-Three</a>(2021)  
-Print version: –35 / $60  
-Ebook (EPDF): –19.99 / $24.99
-
- 
+<a  name="43" id="43">Volume Forty-Three</a> (2021)  
+Print version: –24.99 / $29.99 
+Ebook (EPDF): –15.00 / $19.95
 
 Non-Society members, libraries, and other institutions should order from the publisher Boydell &amp; Brewer,
 
 
-- through [ **their website** ](https://boydellandbrewer.com/9781843846307/medieval-english-theatre-43/),
+- through [ **their website** ](https://boydellandbrewer.com/book/medieval-english-theatre-43-9781843846307/),
 - by e-mail to trading@boydell.co.uk, or
 - by post to: Boydell &amp; Brewer Ltd, PO Box 9, Woodbridge, Suffolk, IP12 3DF, UK (telephone 01394 610 600).
 
  
 
-FOR SOCIETY MEMBERS ONLY: *Society Members
-Preferential Rate* for the print version — enquire of the Secretary.
+FOR SOCIETY MEMBERS ONLY: *Society Members Preferential Rate* for the print version — enquire of the Secretary.
 
  [  Volume Index ](volindex.html#43) 
  

@@ -13,7 +13,7 @@ Subscription for 1994: £8 plus current P&amp;P.
 |CONTENTS| 
 {: .issueHeader-table} 
 
-|AUTHOR|TITLE                | |Pages|
+|AUTHOR|TITLE  | |Pages|
 |-------|-------|-------|-------|   
 ||Dedication: In Memoriam Jean-Claude Aubailly| [<img  src="/assets/pdfteal.jpg"/>](pdfs/permission_request.pdf) |3|  
 |<a  name="Debax" id="Debax"> </a>Jean-Paul Debax &amp; Yves Peyré|Introduction| [<img  src="/assets/pdfteal.jpg"/>](pdfs/permission_request.pdf) |4–9|  
@@ -34,7 +34,7 @@ To order this volume:
 <img 
      src="/assets/covers/vol16sm.gif"
      style="margins:auto;display:block;width:;"/>
-<a  name="16" id="16"> </a>Volume Sixteen(1994)       price –8 plus current p&amp;p.
+<a  name="16" id="16"> </a>Volume Sixteen (1994)       price £8 plus current p&amp;p.
 
 Go to [the Back Numbers page](back_nos.html) and download the Back Numbers Order Form. Fill it in, and send it as an attachment by e-mail to:   medieval-english-theatre@lancaster.ac.uk  
 or, exceptionally, by post to:   Medieval English Theatre, c/o Department of English and Creative Writing, Lancaster University, LANCASTER LA1 4YD, UK.  

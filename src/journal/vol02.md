@@ -40,7 +40,7 @@ This volume is currently out of print.
 
 
 To order this volume:
-<img   src="/assets/covers/vol02sm.gif""/> <a  name="02" id="02"> </a>Volume Two(1980)
+<img   src="/assets/covers/vol02sm.gif""/> <a  name="02" id="02"> </a>Volume Two (1980)
 
 Volume Two is currently out of print. We hope to reprint it on demand in the near future.
 

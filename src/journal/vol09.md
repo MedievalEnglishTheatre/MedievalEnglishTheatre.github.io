@@ -37,7 +37,7 @@ Subscription for 1987: £5 plus current P&amp;P.
 
 
 To order this volume:
-<img  src="/assets/covers/vol09sm.gif" /> <a  name="09" id="09"> </a>Volume Nine(1987)       price –5 plus current p&amp;p.
+<img  src="/assets/covers/vol09sm.gif" /> <a  name="09" id="09"> </a>Volume Nine (1987) 
 
 Go to [the Back Numbers page](back_nos.html) and download the Back Numbers Order Form. Fill it in, and send it as an attachment by e-mail to:   medieval-english-theatre@lancaster.ac.uk  
 or, exceptionally, by post to:   Medieval English Theatre, c/o Department of English and Creative Writing, Lancaster University, LANCASTER LA1 4YD, UK.  

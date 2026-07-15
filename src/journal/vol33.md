@@ -10,7 +10,7 @@ volume_number: 33
 
  
 
-Subscription for 2011: –15 plus current P&amp;P.  
+Subscription for 2011: £15 plus current P&amp;P.  
 
 |CONTENTS|  
 {: .issueHeader-table}
@@ -28,7 +28,7 @@ Subscription for 2011: –15 plus current P&amp;P.
 
 
 To order this volume:
-<img     src="/assets/covers/vol33vsm.jpg"/> <a  name="33" id="33"> </a>Volume Thirty-Three(2011)       price £15 plus current p&amp;p.
+<img     src="/assets/covers/vol33vsm.jpg"/> <a  name="33" id="33"> </a>Volume Thirty-Three (2011)       price £15 plus current p&amp;p.
 
 Go to [the Back Numbers page](back_nos.html) and download the Back Numbers Order Form. Fill it in, and send it as an attachment by e-mail to:   medieval-english-theatre@lancaster.ac.uk  
 or, exceptionally, by post to:   Medieval English Theatre, c/o Department of English and Creative Writing, Lancaster University, LANCASTER LA1 4YD, UK.  

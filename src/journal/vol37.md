@@ -29,7 +29,7 @@ volume_number: 37
 |<a  name="godfrey" id="godfrey"> </a>Bob Godfrey|–The Digby *Mary Magdalen* in Performance: a merry peripeteia |105 – 118|  
 |<a  name="epp" id="epp"> </a>Garrett P.J. Epp|–Thus am I Rent on Rode–: taking apart the Towneley *Crucifixion* |119 – 133|  
 |<a  name="johnston" id="johnston"> </a>Alexandra F. Johnston|The *Second Shepherds– Play*: a play for the Christmas season |134 – 148|  
-|<a  name="twycross" id="twycross"> </a>Meg Twycross|–They did not come out of an Abbey in Lancashire–: Francis Douce and the manuscript of the Towneley Plays |149 – 165|-  <img  src="/assets/covers/vol37vsm.jpg"/>
+|<a  name="twycross" id="twycross"> </a>Meg Twycross|'They did not come out of an Abbey in Lancashire': Francis Douce and the manuscript of the Towneley Plays |149 – 165|-  <img  src="/assets/covers/vol37vsm.jpg"/>
 
 ### BUY THIS VOLUME  
 <a  name="37" id="37"> </a>Volume Thirty-Seven (2015) The Best Pairt of our Play. Essays presented to John J. McGavin. Part I  

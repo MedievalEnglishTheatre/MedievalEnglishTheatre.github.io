@@ -7,7 +7,6 @@ volume_number: 45
 ---
 
 ## VOLUME FORTY-FIVE (2023)  
-### At Press
 
 
 |CONTENTS|  
@@ -25,7 +24,31 @@ volume_number: 45
 
 ----
 
- [  Volume Index  ](volindex.html#45)
-----
+<img   src="/assets/covers/vol45vsm.jpg"/>
+
+### BUY THIS VOLUME  
+
+<a  name="45" id="45">Volume Forty-Five</a> (2023)  
+Print version: £35 / $49.95  
+Ebook (PDF): £15 / $19.95
+
+
+Non-Society members, libraries, and other institutions should order from the publisher Boydell &amp; Brewer,
+
+
+- through [ **their website** ](https://boydellandbrewer.com/book/medieval-english-theatre-45-9781843847199/),
+- by e-mail to trading@boydell.co.uk, or
+- by post to: Boydell &amp; Brewer Ltd, PO Box 9, Woodbridge, Suffolk, IP12 3DF, UK (telephone 01394 610 600).
+
+ 
+
+FOR SOCIETY MEMBERS ONLY: *Society Members Preferential Rate* for the print version — enquire of the Secretary.
+
+ [  Volume Index ](volindex.html#43) 
+ 
+ 
+
+
+ [Volume Index](volindex.html#45)
 
 

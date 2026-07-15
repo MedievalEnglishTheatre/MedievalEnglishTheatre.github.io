@@ -39,7 +39,7 @@ This volume is currently out of print.
 
 
 To order this volume:
-<img   src="/assets/covers/vol10sm.gif"/> <a  name="10" id="10"> </a>Volume Ten(1988)
+<img   src="/assets/covers/vol10sm.gif"/> <a  name="10" id="10"> </a>Volume Ten (1988)
 
 Volume Ten is currently out of print. We hope to reprint it on demand in the near future.
 

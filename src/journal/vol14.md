@@ -27,7 +27,7 @@ Subscription for 1992: £7 plus current P&amp;P.
 
 To order this volume:
 <img   src="/assets/covers/vol14sm.gif"/>
-<a  name="14" id="14"> </a>Volume Fourteen(1992)  price £7 plus current p&amp;p.
+<a  name="14" id="14"> </a>Volume Fourteen (1992)  price £7 plus current p&amp;p.
 
 Go to [the Back Numbers page](back_nos.html) and download the Back Numbers Order Form. Fill it in, and send it as an attachment by e-mail to:  medieval-english-theatre@lancaster.ac.uk  
 or, exceptionally, by post to:  Medieval English Theatre, c/o Department of English and Creative Writing, Lancaster University, LANCASTER LA1 4YD, UK.  

@@ -49,7 +49,7 @@ Estaits* (review)|163–168|
 {: .issueContents-table}
 
 To order this volume:
-<img   src="/assets/covers/vol06sm.gif"/> <a  name="06" id="06"> </a>Volume Six(1984)
+<img   src="/assets/covers/vol06sm.gif"/> <a  name="06" id="06"> </a>Volume Six (1984)
 
 Volume Six is currently out of print. We hope to reprint it on demand in the near future.
 

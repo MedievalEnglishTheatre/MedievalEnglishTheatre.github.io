@@ -40,7 +40,7 @@ s| [<img   src="/assets/pdfteal.jpg" align="middle"/>](pdfs/1-1.pdf) |
 ||Directory|82–88|  
 
 To order this volume:
-<img src="/assets/covers/vol01sm.gif"/> <a  name="01" id="01"> </a>Volume One(1979)
+<img src="/assets/covers/vol01sm.gif"/> <a  name="01" id="01"> </a>Volume One (1979)
 
 Volume One is currently out of print. We hope to reprint it on demand in the near future.
 

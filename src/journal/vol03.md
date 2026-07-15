@@ -46,7 +46,7 @@ Shrovetide Cock*, *Robin Hood and the Friar*, *Murder of Abel*, *Tom Tyler* (rev
 
 
 To order this volume:
-<img  src="/assets/covers/vol03sm.gif" /> <a  name="03" id="03"> </a>Volume Three(1981)
+<img  src="/assets/covers/vol03sm.gif" /> <a  name="03" id="03"> </a>Volume Three (1981)
 
 Volume Three is currently out of print. We hope to reprint it on demand in the near future.
 

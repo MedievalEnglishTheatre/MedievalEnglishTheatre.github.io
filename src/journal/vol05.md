@@ -44,7 +44,7 @@ This volume is currently out of print.
 {: .issueContents-table}
 
 To order this volume:
-<img   src="/assets/covers/vol05sm.gif"/> <a  name="05" id="05"> </a>Volume Five(1983)
+<img   src="/assets/covers/vol05sm.gif"/> <a  name="05" id="05"> </a>Volume Five (1983)
 
 Volume Five is currently out of print. We hope to reprint it on demand in the near future.
 
