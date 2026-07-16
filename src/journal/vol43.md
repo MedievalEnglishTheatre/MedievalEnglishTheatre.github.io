@@ -20,7 +20,7 @@ volume_number: 43
 |<a  name="bennett" id="bennett"> </a>Meg Twycross and Philip Bennett|Appendix: Transcription and Translation of BL MS Cotton Nero D II fols 260v–262r |80 – 107|  
 |<a  name="pearce" id="pearce"> </a>Michael Pearce|‘Maskerye claithis’ for James VI and Anna of Denmark |108 –123|  
 |<a  name="forse" id="forse"> </a>James H. Forse|Peers and Performers in the Reign of Henry VI  |124 – 190|  
-|<a  name="butterworth id="butterworth"> </a>Philip Butterworth|‘ That Gam me Thoght was Good!’: Structuring Games into Medieval English Plays |191 – 223|  
+|<a  name="butterworth" id="butterworth"> </a>Philip Butterworth|‘That Gam me Thoght was Good!’: Structuring Games into Medieval English Plays |191 – 223|  
 |<a  name="dutton" id="dutton"> </a>Elisabeth Dutton|Feminism, Theatre, and Historical Fiction: Anna of Cleves in 2021  |224 – 236|  
 {: .issueContents-table}
 
@@ -29,13 +29,14 @@ volume_number: 43
 ### BUY THIS VOLUME  
 
 <a  name="43" id="43">Volume Forty-Three</a> (2021)  
-Print version: –24.99 / $29.99 
-Ebook (EPDF): –15.00 / $19.95
+Print version: £24.99 / $29.99   
+
+Ebook (EPDF): £15.00 / $19.95
 
 Non-Society members, libraries, and other institutions should order from the publisher Boydell &amp; Brewer,
 
 
-- through [ **their website** ](https://boydellandbrewer.com/book/medieval-english-theatre-43-9781843846307/),
+- through [**their website**](https://boydellandbrewer.com/book/medieval-english-theatre-43-9781843846307/),
 - by e-mail to trading@boydell.co.uk, or
 - by post to: Boydell &amp; Brewer Ltd, PO Box 9, Woodbridge, Suffolk, IP12 3DF, UK (telephone 01394 610 600).
 
