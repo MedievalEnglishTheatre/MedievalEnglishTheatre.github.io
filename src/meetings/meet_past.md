@@ -10,6 +10,8 @@ Medieval English Theatre holds a meeting each year on the last Saturday in March
 
 ## List of Previous Meetings  
 
+- 28 March 2026
+  - [University of Durham](/meetings/meet_2026/) -- Theatre in the Archives: A REED Retrospective
 - 29 March 2025 
   - [University of Bristol](/meetings/meet_2025/) -- Theatre in Action 
 - 6 April 2024
