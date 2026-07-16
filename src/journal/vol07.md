@@ -22,7 +22,6 @@ This volume is currently out of print.
 |<a  name="Havely" id="Havely"> </a>Nick Havely|The Mysteries ( *The Nativity*, *The Passion*, *Doomsday* ) (review of National Theatre production)|54–57|  
 |<a  name="Twycross" id="Twycross"> </a>Meg Twycross| *Mankinde* (review)|57–61|  
 |<a  name="Tydeman" id="Tydeman"> </a>Bill Tydeman|N. Town Plays at Lincoln (review)|61–64|  
-|
 
 ---- 
 
