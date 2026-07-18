@@ -17,5 +17,6 @@ banner_alt: "Ibn Butlân *Tacuinum sanitatis* https://gallica.bnf.fr/ark:/12148/
 
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="#programme" id="#programme" href="online_prog_2020/">Go to **PROGRAMME** </a>
 
+- [Online Programme](online_prog_2020.html)
  
 

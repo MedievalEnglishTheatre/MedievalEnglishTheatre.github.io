@@ -3,6 +3,7 @@ title:  "METh Meeting 2010: Programme"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
+permalink: /meetings/meet_2010/programme_2010.html
 ---
 
 >## Medieval English Theatre Meeting 27 March 2010
@@ -28,5 +29,5 @@ banner_alt: "METh Title Banner"
  *This is the planned programme, but it is subject to any necessary adjustments. As usual, papers will last about 20-25 minutes.* 
 
  [Meeting 2010](/meetings/meet_2010/) 
-
- [Return to Meetings page](/meet/).
+ 
+ 

@@ -33,11 +33,6 @@ If you would prefer to find a hotel room or a B&amp;B, [http://www.laterooms.com
 -  **Parking** : A limited number of spaces will be available in the English Faculty car park, close to Magdalen. These are by prior arrangement only - please email   **james.mcbain@magd.ox.ac.uk** .
 ----
 
-Go to     [ **PROGRAMME** ](programme_2012/)     page
-
-----
-
-
- [Return to Meetings page](/meetings/) .
+Go to     [ **PROGRAMME** ](programme_2012.html)     page
 
 

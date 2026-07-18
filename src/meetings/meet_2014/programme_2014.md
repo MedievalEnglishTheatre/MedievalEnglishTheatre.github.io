@@ -3,6 +3,7 @@ title:  "METh Meeting 2014"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
+permalink: /meetings/meet_2014/programme_2014.html
 ---
 
 >## 29 March 2014  
@@ -34,4 +35,4 @@ banner_alt: "METh Title Banner"
 
 Return to [Meeting 2014](/meetings/meet_2014/) 
 
-Return to [Meetings](/meetings) page
+

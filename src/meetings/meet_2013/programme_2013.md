@@ -3,11 +3,12 @@ title:  "METh Meeting 2013 Programme"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
+permalink: /meetings/meet_2013/programme_2013.html
 ---
 
 >## 23 March 2013  
 > Travel  
-> This year the Medieval English Theatre meeting on [ **Travel** ](programme_2013.html) will be hosted by **Sue Niebrzydowski** (s.niebrzydowski@bangor.ac.uk)and **Andrew Hiscock** (a.hiscock@bangor.ac.uk)at **Bangor University**
+> This year the Medieval English Theatre meeting on **Travel**  will be hosted by **Sue Niebrzydowski** (s.niebrzydowski@bangor.ac.uk)and **Andrew Hiscock** (a.hiscock@bangor.ac.uk)at **Bangor University**
 
 
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="programme" id="programme"/>Programme
@@ -29,9 +30,8 @@ banner_alt: "METh Title Banner"
 - 16.30 **Pamela King** , **Diana Wyatt** , **Sue Niebrzydowski**, and **Andrew Hiscock**: **Roundtable discussion** on the *Yearbook in English Studies 43: Early Drama*  
 - 17.00 Close of Conference.
 
- *This is the planned programme, but it is subject to any necessary adjustments.
-As usual, papers will last about 20-25 minutes.* 
+ *This is the planned programme, but it is subject to any necessary adjustments. As usual, papers will last about 20-25 minutes.* 
 
 Return to [Meeting 2013](/meetings/meet_2013/) 
 
-Return to [Meetings](../meetings/) page
+

@@ -3,6 +3,7 @@ title:  "METh Meeting 2009"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
+permalink: /meetings/meet_2009/programme_2009.html
 ---
   
   

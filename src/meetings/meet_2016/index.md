@@ -13,7 +13,7 @@ This year the Medieval English Theatre Meeting on *Transnational Drama* will be 
 
 ### Delegate Information
 
-- [Programme](prog_2016/) 
+- [Programme](prog_2016.html) 
 
 On Friday 18 March, the [Early English Drama &amp; Performance Network](https://earlyenglishdrama.wordpress.com) (EED&amp;PN) will be hosting its first [Postgraduate and Early Career Symposium](https://earlyenglishdrama.wordpress.com/postgraduate-and-early-career-symposium-2016/). Please contact Tamara Haddad (t.n.haddad@kent.ac.uk) for more details.
 

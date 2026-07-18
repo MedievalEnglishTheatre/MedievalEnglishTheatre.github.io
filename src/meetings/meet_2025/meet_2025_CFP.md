@@ -3,6 +3,7 @@ title:  "METh Meeting 2025"
 layout: page
 banner_image: "/assets/meet_2025_header.jpg"
 banner_alt: "Image from Bibliothèque nationale de France. Département des Manuscrits Rothschild 3010 fols 14v-15r https://gallica.bnf.fr/ark:/12148/btv1b55005972m/f40.item.r=Valenciennes: *Mistere de la Passion* (Valenciennes, 1547)."
+permalink: /meetings/meet_2025/meet_2025_CFP.html
 ---
   
 >### Saturday 29 March 2025  

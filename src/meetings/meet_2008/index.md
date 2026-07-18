@@ -21,7 +21,7 @@ This year the Medieval English Theatre meeting on **The 1490s** will be
 
 ----
 
-Go to     [ **PROGRAMME** ](programme_2008/)    page
+Go to     [ **PROGRAMME** ](programme_2008.html)    page
 
 ----
 

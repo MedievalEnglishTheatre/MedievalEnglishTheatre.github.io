@@ -3,6 +3,7 @@ title:  "METh Meeting 2019"
 layout: page
 banner_image: "/assets/meet-2019C.jpg"
 banner_alt: "Screen capture from the Barking Abbey Plays http://medievalconventdrama.org/uncategorized/barking-abbey-easter-plays-more-photos/, one of the productions from the Medieval Convent Drama Project"
+permalink: /meetings/meet_2010/meet_2019_programe.html
 ---
 
   

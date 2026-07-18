@@ -3,6 +3,7 @@ title:  "METh Meeting 2015"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
+permalink: /meetings/meet_2015/programme_2015.html
 ---
 
 >## 28 March 2015  
@@ -43,4 +44,4 @@ Those who are staying for the buffet proceed to 20 Donnington Grove, SO17 1RW.
 
 Return to [Meeting 2015](/meetings/meet_2015/) 
 
-Return to [Meetings](/meetings/) page
+

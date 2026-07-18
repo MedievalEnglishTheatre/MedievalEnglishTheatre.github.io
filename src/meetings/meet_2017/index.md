@@ -17,7 +17,7 @@ GLASGOW G12  [View Map](https://maps.google.com/maps?hl=en-GB&amp;q=55.87151,-4.
 
 The conference day will divide roughly into two halves, the first offering a range of short papers looking at performance questions raised by individual case-studies, the second considering broader theoretical questions raised by the discussion of medieval playing and its conventions. **Speakers** include John Marshall (Bristol), Sarah Carpenter (Edinburgh), Thomas Pettit (Odense), and Katie Normington (Royal Holloway, University of London). Over lunch there will be a workshop performance of a recently translated Shepherds Play directed by Elisabeth Dutton.
 
-- [ **PROGRAMME** ](prog_2017/) 
+- [ **PROGRAMME** ](prog_2017.html) 
 - [Printable version](Programme_2017.docx) 
 
 ----

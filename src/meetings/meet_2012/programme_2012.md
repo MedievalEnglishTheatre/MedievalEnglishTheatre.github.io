@@ -3,6 +3,7 @@ title:  "METh Meeting 2012 Programme"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
+permalink: /meetings/meet_2012/programme_2012.html
 ---
 
 >## Medieval English Theatre Meeting 31 March 2012:  
@@ -37,4 +38,4 @@ banner_alt: "METh Title Banner"
 
 Return to [Meeting 2012](/meetings/meet_2012/) 
 
-Return to [Meetings](/meetings/) page
+

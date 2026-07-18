@@ -3,6 +3,7 @@ title:  "METh Meeting 2023 CFP"
 layout: page
 banner_image: "/assets/meet_2023_header.jpg"
 banner_alt: "Images from The Hague: Museum Meermanno Westreenianum MS 10 B 23, Guyart des Moulins *Bible historiale* https://manuscripts.kb.nl/show/images_text/10+B+23 ; Jean Bondel, First Master of the Bible of Jean de Sy and others (illuminators); 1371-1372."
+permalink: /meetings/meet_2023/meet_2023_CFP.html
 ---
 
 >### Saturday 1 April 2023  

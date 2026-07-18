@@ -23,7 +23,7 @@ Sarah�s contact details are: *e-mail*   **sarah.carpenter@ed.ac.uk**
 
 ----
 
-Go to     [ **PROGRAMME** ](programme_2011/)    page
+Go to     [ **PROGRAMME** ](programme_2011.html)    page
 
 ----
 
@@ -48,5 +48,5 @@ As usual, we will arrange a **dinner** (not included in the conference fee) on t
 
 For a paper version of this information, download the [Word document](details_2011.doc) attached here.
 
- [Return to Meetings page](/meetings/).  
+
 

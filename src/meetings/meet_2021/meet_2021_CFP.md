@@ -3,6 +3,7 @@ title:  "METh Meeting 2021"
 layout: page
 banner_image: "/assets/meet_2021%20bening.jpg"
 banner_alt: "Simon Bening *Triptych of St Jerome* https://upload.wikimedia.org/wikipedia/commons/c/c9/Tr%C3%ADptico_de_san_Jer%C3%B3nimo_Simon_Bening.jpg (1550), detail. Spain: Escorial Monastery. Property of Patrimonio Nacional."
+permalink: /meetings/meet_2021/meet_2021_CFP.html
 ---
 
 >## Saturday 27 March 2021
@@ -32,12 +33,4 @@ sessions** , especially in the current context. Please submit your proposals by 
 <img xmlns="http://www.w3.org/1999/xhtml" src="/assets/banner_sm.jpg"/>
 
  
-
-----
-
-
-
- 
-
-----
 

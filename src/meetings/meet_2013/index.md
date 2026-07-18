@@ -34,9 +34,6 @@ banner_alt: "METh Title Banner"
 
 ----
 
-Go to     [ **PROGRAMME** ](programme_2013/)     page
+Go to     [ **PROGRAMME** ](programme_2013.html)     page
 
-----
-
- [Return to Meetings page](/meetings/).
 

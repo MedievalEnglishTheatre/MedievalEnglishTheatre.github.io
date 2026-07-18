@@ -12,7 +12,7 @@ banner_alt: "METh Title Banner"
 
 ----
 
-Go to     [ **PROGRAMME** ](programme_2014/)     page
+Go to     [ **PROGRAMME** ](programme_2014.html)     page
 
 ----
 
@@ -41,8 +41,6 @@ Cheques for room payment should be made out to �Murray Edwards College� and 
 
 ###  **Parking**
 For directions to the College and car parking, see the [attached maps](maps.pdf), or go to the [College website](http://www.murrayedwards.cam.ac.uk/alumnae/visitingcollege/mapsanddirections/) .
-----
 
- [Return to Meetings page](/meetings/).
 
 

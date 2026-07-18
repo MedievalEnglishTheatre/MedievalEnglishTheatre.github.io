@@ -21,7 +21,7 @@ This year the Medieval English Theatre meeting on **London** will be:
 
 ----
 
-Go to     [ **PROGRAMME** ](programme_2009/)    page
+Go to     [ **PROGRAMME** ](programme_2009.html)    page
 
 ----
 
@@ -86,7 +86,7 @@ Single rooms from **�55** for bed and breakfast per person.
 
 - There is parking at back of Loch Fyne restaurant.
 
- [**Saturday**](programme_2009/) 
+ [**Saturday**](programme_2009.html) 
 
 - To help those who wish to travel on the Saturday, we will begin registration at 10 a.m. and the full programme at 10.30.  
 
@@ -102,6 +102,5 @@ Single rooms from **�55** for bed and breakfast per person.
 
 Sue Niebrzydowski  
 30th January 2009
-
- [Return to Meetings page](/meetings/).  
+ 
  

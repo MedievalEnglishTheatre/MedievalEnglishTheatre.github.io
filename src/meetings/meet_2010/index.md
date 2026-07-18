@@ -9,7 +9,7 @@ banner_alt: "METh Title Banner"
 > **Academic &amp; Institutional Drama**
 > Worcester College, Oxford
 
- This year the Medieval English Theatre meeting on [ **Academic &amp; Institutional Drama** ](programme_2010/) will be
+ This year the Medieval English Theatre meeting on [ **Academic &amp; Institutional Drama** ](programme_2010.html) will be
 
 - hosted by Elisabeth Dutton at Worcester College, Oxford;  
 - maps on the College website, [http://www.ox.ac.uk/applications/dynamic/map_google.rm?g=1&amp;id=49](http://www.ox.ac.uk/applications/dynamic/map_google.rm?g=1&amp;id=491) ;  
@@ -29,10 +29,6 @@ If you would prefer to find a hotel room or a B&amp;B, [http://www.laterooms.com
 
 ----
 
-Go to     [ **PROGRAMME** ](programme_2010/)     page
-
-----
-
- [Return to Meetings page](/meetings/) .
+Go to     [ **PROGRAMME** ](programme_2010.html)     page
 
 

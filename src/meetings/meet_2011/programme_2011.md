@@ -3,6 +3,7 @@ title:  "METh Meeting 2011"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
+permalink: /meetings/meet_2011/programme_2011.html
 ---
   
 >## Medieval English Theatre Meeting 26 March 2011  
@@ -31,4 +32,4 @@ banner_alt: "METh Title Banner"
 
 Return to [Meeting 2011](/meetings/meet_2011/) 
 
-Return to [Meetings](/meetings/) page
+
