@@ -3,6 +3,7 @@ title:  "METh Meeting 2005: Dinner"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
+permalink: /meetings/meet_2005/dinner_2005.html
 ---
 
 
@@ -18,7 +19,7 @@ We are asked to pre-book the menu (see [Menu](#Menu) below)
 
  **Method of payment** : I would suggest that I simply pay the restaurant on my credit card (I will have already paid the non-refundable deposit by this means), and you pay your share to me on the night. I accept cash and cheques, but not time-share options, or measures of oatmeal.
 
-### <a xmlns="http://www.w3.org/1999/xhtml" name="Menu" id="Menu"/> **Menu** 
+### <a name="Menu" id="Menu"/> **Menu** 
 
 We are asked to pre-book because of the size of the party and the need to ensure that everyone gets what they would like. The food will then be ready for us individually when we come. I must ask you therefore to choose in advance one of the following main courses and one of the following puddings and let me know your preference. Please email me your preference **jjm1@soton.ac.uk** by Mon 7 March.  
 

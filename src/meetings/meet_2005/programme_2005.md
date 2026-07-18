@@ -3,13 +3,14 @@ title:  "METh Meeting 2005: Programme"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
+permalink: /meetings/meet_2005/programme.html
 ---
 
 >### Medieval English Theatre Meeting 19 March 2005
 > *A Sense of Place* 
 > **University of Southampton** 
 
-### <a xmlns="http://www.w3.org/1999/xhtml" name="programme" id="programme"/> **Programme**
+### <a name="programme" id="programme"/> **Programme**
 
 - 09.30Registration, Coffee, and Welcome.
 - 10.00 **David Mills**: ��I know my place�: Some Thoughts on Location and Station in the Mystery Plays�.
