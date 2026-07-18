@@ -1,7 +1,7 @@
 ---
 title: "METh Meeting 2003: Map of Lancaster and District with Hotels"
 layout: page
-banner_image: "/assets/meth_title.gif"
+banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
 ---
 

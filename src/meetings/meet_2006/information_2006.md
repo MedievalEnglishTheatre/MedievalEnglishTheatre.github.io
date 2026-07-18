@@ -1,7 +1,7 @@
 ---
 title:  "METh Meeting 2006: Further Information"
 layout: page
-banner_image: "/assets/meth_title.gif"
+banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
 ---
 

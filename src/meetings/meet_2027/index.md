@@ -1,8 +1,8 @@
 ---
 title:  "METh Meeting 2027"
 layout: page
-banner_image: "/assets/meet_2026_header_REED.jpg"
-banner_alt: "Image of a Beverley document, East Riding Archives, shelfmark BC II 3 folio 13r. REED logo from *Kempes Nine Daies Wonder* (1600), original online at https://commons.wikimedia.org/wiki/File:Will_Kemp_Elizabethan_Clown_Jig.jpg."
+banner_image: "/assets/meth_title.jpg"
+banner_alt: "METh Title"
 ---
 
   

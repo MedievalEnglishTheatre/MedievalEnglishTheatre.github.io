@@ -1,7 +1,7 @@
 ---
 title:  "METh Meeting 2004: Programme"
 layout: page
-banner_image: "/assets/meth_title.gif"
+banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
 ---
 >## Medieval English Theatre Meeting 27 March 2004
