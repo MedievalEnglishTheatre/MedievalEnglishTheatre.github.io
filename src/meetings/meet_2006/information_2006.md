@@ -3,6 +3,7 @@ title:  "METh Meeting 2006: Further Information"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
+permalink: /meetings/meet_2006/information_2006.html
 ---
 
 >## Medieval English Theatre Meeting 25 March 2006

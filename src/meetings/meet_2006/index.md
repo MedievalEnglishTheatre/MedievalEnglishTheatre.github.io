@@ -17,8 +17,8 @@ The 2006 *Medieval English Theatre* on **The Classical** will be
 - academically hosted by Dr Phil Butterworth.
 - A table will be booked for dinner on the evening of Friday 26th March.
 
--  **[Further Information](information_2006/)**   
--  **[Programme](programme_2006/)**   
+-  **[Further Information](information_2006.html)**   
+-  **[Programme](programme_2006.html)**   
 
 -  [Booking Form](registration.doc).  
 
