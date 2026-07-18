@@ -14,11 +14,11 @@ banner_alt: "Image of a Beverley document, East Riding Archives, shelfmark BC II
 > [More information](/meetings/meet_2027/) will be available in due course.
 
 
-A slightly longer METh meeting is now scheduled in Fribourg, Switzerland for 9th - 10th April next year. The proposed theme is ’Narratives of Family and Sacrifice’. 
+The METh 2027 meeting is now scheduled in Fribourg, Switzerland for 9th - 10th April next year. The proposed theme is ’Narratives of Family and Sacrifice’. 
 
 The normal meeting will take place on 10th April (Saturday). On 9th April there will be a supplementary event with (some) more structured panels including invited speakers, that will be sponsored by the WOMARD project. 
 
-METh people will be welcome to attend the whole thing or simply the Friday night and Saturday as usual (there will be dinners on the Friday night but also on the Thursday night (8th) for Jewish scholars who cannot attend on Friday evening). 
+METh people will be welcome to attend the whole thing or simply the Friday night and Saturday as usual (there will be dinners on the Friday night). 
 
 
 ### <a name="#reg" id="#reg"/> **REGISTRATION** 
@@ -38,5 +38,5 @@ METh people will be welcome to attend the whole thing or simply the Friday night
  (A link to the PDF programme and a brief list below will be added here when availble)
 
  
-<img src="/assets/banner_sm.jpg" style="width:240px; margins:auto;"/>
+<img src="/assets/banner_sm.jpg" style="width:240px; margins:auto; text-align:center;"/>
 
