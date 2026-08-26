@@ -9,7 +9,7 @@ banner_alt: "Image of a Beverley document, East Riding Archives, shelfmark BC II
 > **Theatre in the Archives: A REED Retrospective**  
 > **University of Durham**  
 > **Elvet Riverside 1, New Elvet, Durham DH1 3AQ**  
-> Hosted by [Mark Chambers](https://www.durham.ac.uk/staff/mark-chambers/) .
+> Hosted by [Mark Chambers](https://www.durham.ac.uk/staff/mark-chambers/).
 
 ----
 
@@ -17,7 +17,7 @@ banner_alt: "Image of a Beverley document, East Riding Archives, shelfmark BC II
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="#reg" id="#reg"/> **REGISTRATION** 
 
 Registration is now open for the 2026 Medieval English Theatre Society Meeting.  
-The **registration fee** is £25 (or £15 concessions for postgraduates/ unwaged/ etc.) and includes lunch and tea/coffee. You can register [ **HERE** ](https://pay.durham.ac.uk/event-durham/medieval-english-theatre-society-meeting-2026).  
+The **registration fee** is £25 (or £15 concessions for postgraduates/ unwaged/ etc.) and includes lunch and tea/coffee. You can register [**HERE**](https://pay.durham.ac.uk/event-durham/medieval-english-theatre-society-meeting-2026).
 Please note that Event Durham will close registration at 12pm on 13 March, so please do register promptly!
 
 ----
@@ -34,7 +34,7 @@ Printable and fully Linked PDF: [Travel, Accommodation, and Some Things to Do th
 
 
 We will hold an informal conference dinner on **Friday
-evening** at attendees’ own expense. This will take place in the ‘ **Rabbit Hole** ’ restaurant on Hallgarth Street (Cantonese/‘fusion’ cuisine; menu available [here).](https://www.therabbitholedurham.co.uk/) Please inform Mark in advance if you’d like to attend (mark.chambers@durham.ac.uk).
+evening** at attendees’ own expense. This will take place in the ‘**Rabbit Hole** ’ restaurant on Hallgarth Street (Cantonese/‘fusion’ cuisine; menu available [here](https://www.therabbitholedurham.co.uk/)). Please inform Mark in advance if you’d like to attend (mark.chambers@durham.ac.uk).
 
  
 - 9.00 onwards **Registration and Coffee**  
@@ -54,7 +54,7 @@ evening** at attendees’ own expense. This will take place in the ‘ **Rabbit 
           ‘Apple, Spice, Wine, Ale: Mundane and Sacred Foods in Early Performance Cultures’  
   - *Mark Chambers* (University of Durham) :  
           ‘50 Years of the *Records of Early English Drama* : The New, the Notable, the Necessary’
-- 12.50 *Mark Chambers* and/or *Cecilia Istria-Dorland* ):  
+- 12.50 *Mark Chambers* and/or *Cecilia Istria-Dorland*):  
           Introduction to the afternoon play
 - 13.00-14.00 **Lunch**  
 - 14.00-15.30
