@@ -22,7 +22,7 @@ banner_alt: "Oxford: Bodleian Library, bas-de-page from MS Bodley 264, fol.84v [
  
 We urge you to read the [Terms and Conditions](https://conferences.ncl.ac.uk/meth2024/about/termsandconditions/) and the [Code of Conduct](https://conferences.ncl.ac.uk/meth2024/about/codeofconduct/) for the Medieval English Theatre Meeting.
 
-Newcastle is an amazing city, and these links will help you to explore it further: [About Newcastle and Newcastle University](https://conferences.ncl.ac.uk/meth2024/about/aboutnewcastleandnewcastleuniversity/) , and [Things to Do and See.](https://conferences.ncl.ac.uk/meth2024/about/thingstodoandsee/)  
+Newcastle is an amazing city, and these links will help you to explore it further: [About Newcastle and Newcastle University](https://conferences.ncl.ac.uk/meth2024/about/aboutnewcastleandnewcastleuniversity/), and [Things to Do and See.](https://conferences.ncl.ac.uk/meth2024/about/thingstodoandsee/)  
 
 ----
 
@@ -73,7 +73,7 @@ The cost of registration includes all refreshments and lunch on Saturday 6 April
 
 
 As is tradition with METh, there is an optional Friday evening meal before the conference. Our reservation is for **Friday 5
-April 2024, at 7pm** , at [](https://www.bealimhouse.co.uk/)  [Bealim House](https://www.bealimhouse.co.uk/) . On the premises of Newcastle Gin distillery, good cocktails, 'Thali Tray' Indian Street Food. There is a group set menu for around £18 (not including drinks or extras. A thali tray is a choice of curries with rice and a naan bread, etc., served on a tray. Attendees will be expected to pay for their own food on the night, this is not included in the registration charge.
+April 2024, at 7pm**, at [](https://www.bealimhouse.co.uk/)  [Bealim House](https://www.bealimhouse.co.uk/) . On the premises of Newcastle Gin distillery, good cocktails, 'Thali Tray' Indian Street Food. There is a group set menu for around £18 (not including drinks or extras. A thali tray is a choice of curries with rice and a naan bread, etc., served on a tray. Attendees will be expected to pay for their own food on the night. This is not included in the registration charge.
 
 For further information about sustenance in Newcastle, see the conference website page on [**Food and Drink**](https://conferences.ncl.ac.uk/meth2024/about/foodanddrink/).
 
