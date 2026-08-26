@@ -65,7 +65,7 @@ The **deadline** for registration is **9th March 2023** . We are unable to accep
 
 The **conference fee** , which includes lunch, tea and coffee, is **£30** for METh Society members, **£40** for non-members.
 
- **Postgraduates** : the first two current postgraduate students to register for the conference will have their fees refunded by METh. If you are a postgraduate student, please email the conference host, Dr Olivia Robinson (o.robinson.2@bham.ac.uk, to let her know that you have registered.
+ **Postgraduates** : the first two current postgraduate students to register for the conference will have their fees refunded by METh. If you are a postgraduate student, please email the conference host, Dr Olivia Robinson (o.robinson.2@bham.ac.uk), to let her know that you have registered.
 
 ----
 
@@ -94,6 +94,6 @@ The Alan Walters building is in the red part of Campus on this map, in the middl
 There are many hotels in and around the city centre of Birmingham. If you are considering taking the train, anything around New Street would be convenient. There are also frequent trains from Five Ways station, which has several big hotels within walking distance. Finally, there is a University-owned hotel on Campus called The Edgbaston Park Hotel (website: [https://www.edgbastonparkhotel.com](https://www.edgbastonparkhotel.com/) ; very top right of the campus map in green). This is a very short walk directly to the conference venue, so it is the most convenient option. However, it’s not the cheapest. I should also say that Birmingham UCU members are currently (I believe) on a boycott of the EPH because it does not pay all of its staff the living wage. I mention this because some attendees who are fellow UCU members might feel that it is important to take that into account; others, of course, may not wish to, or may have circumstances to consider which override that. Please be reassured that everyone’s accommodation choices will be treated with respect and consideration.
 
  
- [**Printable version of this information** ](2023_details.pdf).
+ [**Printable version of this information**](2023_details.pdf).
 
 
