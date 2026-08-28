@@ -9,14 +9,14 @@ permalink: /society/soccomm.html
 The Committee for the Society consists of the following roles:
 
 
-- Chair: [Elisabeth Dutton](https://www.unifr.ch/directory/en/people/18518/57a54) 
+- Chair: [Mark Chambers](https://www.durham.ac.uk/staff/mark-chambers/) 
 - Journal Editors: [Sarah Carpenter](https://www.ed.ac.uk/profile/sarah-carpenter), [Meg Twycross](https://www.lancaster.ac.uk/arts-and-social-sciences/people/meg-twycross), and [Elisabeth Dutton](https://www.unifr.ch/directory/en/people/18518/57a54) 
 - Assistant Editor: [Aurélie Blanc](https://www.unifr.ch/directory/en/people/13700/ee4f6) 
 - Subscriptions Editor: [Clare Egan](https://www.lancaster.ac.uk/english-literature-and-creative-writing/people/clare-egan) 
 - Treasurer: [Olivia Robinson](https://www.birmingham.ac.uk/staff/profiles/english/robinson-olivia.aspx) 
-- Acting Secretary: [Mark Chambers](https://www.durham.ac.uk/staff/mark-chambers/) 
-- Forthcoming Conference Host: [Mark Chambers](https://www.durham.ac.uk/staff/mark-chambers/) 
-- Previous Conference Host: [Eleanor Rycroft](https://www.bristol.ac.uk/people/person/Eleanor-Rycroft-2c4543b4-04cf-458d-8c59-d1ac2f214bb4/) 
+- Acting Secretary: [Alison Samuels](https://livinginmylibrary.home.blog/author/livinginmylibrary/) 
+- Forthcoming Conference Host: [Elisabeth Dutton](https://www.unifr.ch/directory/en/people/18518/57a54) 
+- Previous Conference Host: [Mark Chambers](https://www.durham.ac.uk/staff/mark-chambers/)
 - International Officer: Laura Elizabeth Rice
 - Two Society Members: [Garrett Epp](https://www.linkedin.com/in/garrett-epp-7483b592/?originalSubdomain=ca) and [Charlotte Steenbrugge](https://www.sheffield.ac.uk/english/people/academic-staff/charlotte-steenbrugge) 
 - Electronic Communications Officer: [Aurélie Blanc](https://www.unifr.ch/directory/en/people/13700/ee4f6) 
