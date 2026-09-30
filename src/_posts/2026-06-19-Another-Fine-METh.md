@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "METh 2027"
-date:   "2026-06-19"
+date:   "2026-09-30"
 ---
 
-The METh 2027 meeting is now scheduled in Fribourg, Switzerland for 9th - 10th April 2027. The proposed theme is ’Narratives of Family and Sacrifice’. [More information](/meetings/meet_2027/) will be available in due course.
+The METh 2027 meeting is now scheduled in Fribourg, Switzerland for 9th - 10th April 2027. The proposed theme is ’Narratives of Family and Sacrifice’. [More information](/meetings/meet_2027/) will be available soon.
 
 The normal meeting will take place on 10th April (Saturday). On 9th April there will be a supplementary event with (some) more structured panels including invited speakers, that will be sponsored by the WOMARD project. 
 
