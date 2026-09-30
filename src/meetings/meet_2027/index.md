@@ -22,7 +22,7 @@ METh people will be welcome to attend the whole thing or simply the Friday night
 
 ### <a name="#cfp" id="cfp"/> **CALL FOR PAPERS**
 
-The [call for papers](METh_CFP_2027) is now available.
+The [call for papers](METh_CFP_2027.PDF) is now available.
 Please send short proposals (around 300 words) and a brief bio note to elisabeth.dutton@unifr.ch by **October 15th, 2026**.
 
 ### <a name="#reg" id="#reg"/> **REGISTRATION** 
