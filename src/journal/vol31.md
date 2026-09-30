@@ -21,7 +21,7 @@ Subscription for 2009: £12 plus current P&amp;P.
 |<a  name="Mills" id="Mills"> </a>David Mills|No Place Like Home: The Northampton 'Abraham and Isaac' Play, a Re-Appraisal [Summary and PDF](summaries/summaries_31.html#Mills) |58 – 71|  
 |<a  name="Johnston" id="Johnston"> </a>Alexandra F. Johnston|Touring Players in the Early Years of Elizabeth: What were they Playing?  [Summary and PDF](summaries/summaries_31.html#Johnston) |72 – 88|  
 |<a  name="Sergi" id="Sergi"> </a>Matthew Sergi|Festive Piety: Staging Food and Drink at Chester  [Summary and PDF](summaries/summaries_31.html#Sergi) |89 – 136|  
-{: .issueHeader-table}
+{: .issueContents-table}
 
 To order this volume:
 <img      src="/assets/covers/vol31vsm.jpg"/> <a  name="31" id="31"> </a>Volume Thirty-One (2009)       price £12 plus current p&amp;p.
