@@ -18,9 +18,7 @@ Subscription for 2009: £12 plus current P&amp;P.
 |<a  name="Carpenter" id="Carpenter"> </a>Sarah Carpenter|New Evidence: Vives and Audience-Response to Biblical Drama   [Summary and PDF](summaries/summaries_31.html#Carpenter) |3 – 12|  
 |<a  name="Rycroft" id="Rycroft"> </a>Eleanor Rycroft| *The Play of The Weather* in Performance in the Great Hall at Hampton Court  [Summary and PDF](summaries/summaries_31.html#Rycroft) |13 – 27|  
 |<a    name="Steenbrugge"   id="Steenbrugge"> </a>Charlotte Steenbrugge|'O, yowr louely wordys': Latin and Latinate Diction in *Mankind*    [Summary and PDF](summaries/summaries_31.html#Steenbrugge) |28 – 57|  
-|<a  name="Mills" id="Mills"> </a>David Mills|No Place Like Home: The Northampton 'Abraham and Isaac' Play,  
-a Re-Appraisal  
- [Summary and PDF](summaries/summaries_31.html#Mills) |58 – 71|  
+|<a  name="Mills" id="Mills"> </a>David Mills|No Place Like Home: The Northampton 'Abraham and Isaac' Play, a Re-Appraisal [Summary and PDF](summaries/summaries_31.html#Mills) |58 – 71|  
 |<a  name="Johnston" id="Johnston"> </a>Alexandra F. Johnston|Touring Players in the Early Years of Elizabeth: What were they Playing?  [Summary and PDF](summaries/summaries_31.html#Johnston) |72 – 88|  
 |<a  name="Sergi" id="Sergi"> </a>Matthew Sergi|Festive Piety: Staging Food and Drink at Chester  [Summary and PDF](summaries/summaries_31.html#Sergi) |89 – 136|  
 {: .issueHeader-table}
