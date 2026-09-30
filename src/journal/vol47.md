@@ -6,7 +6,7 @@ permalink: /journal/vol47.html
 volume_number: 47
 ---
 
-## VOLUME FORTY-Seven (2024)  
+## VOLUME FORTY-Seven (2025)  
 
 
 |CONTENTS|  
