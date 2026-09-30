@@ -13,7 +13,7 @@ Subscription for 2009: £12 plus current P&amp;P.
 |CONTENTS|  
 {: .issueHeader-table}
 
-|AUTHOR|TITLE                |Pages|
+|AUTHOR|TITLE |Pages|
 |-------|-------|-------|   
 |<a  name="Carpenter" id="Carpenter"> </a>Sarah Carpenter|New Evidence: Vives and Audience-Response to Biblical Drama   [Summary and PDF](summaries/summaries_31.html#Carpenter) |3 – 12|  
 |<a  name="Rycroft" id="Rycroft"> </a>Eleanor Rycroft| *The Play of The Weather* in Performance in the Great Hall at Hampton Court  [Summary and PDF](summaries/summaries_31.html#Rycroft) |13 – 27|  
