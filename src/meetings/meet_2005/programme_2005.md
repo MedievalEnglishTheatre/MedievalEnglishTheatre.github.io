@@ -13,7 +13,7 @@ permalink: /meetings/meet_2005/programme.html
 ### <a name="programme" id="programme"/> **Programme**
 
 - 09.30Registration, Coffee, and Welcome.
-- 10.00 **David Mills**: ''I know my place': Some Thoughts on Location and Station in the Mystery Plays'.
+- 10.00 **David Mills**: '"I know my place": Some Thoughts on Location and Station in the Mystery Plays'.
 - 10.30 **Pam King**: will lead a seminar on 'Theorising Place and Space'.
 - 11.00 Coffee.
 - 11.30 **Andrew Prescott**: 'The Godiva Procession'.
