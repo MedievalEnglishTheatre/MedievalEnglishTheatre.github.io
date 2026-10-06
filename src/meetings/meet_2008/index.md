@@ -17,7 +17,7 @@ This year the Medieval English Theatre meeting on **The 1490s** will be
 - hosted by Professor Pamela King at the University of Bristol;  
 - held in the University's Burwalls Centre for Continuing Education, Bridge Road, Leigh Woods, BRISTOL BS8 3PD, UK, Tel: +44 (0)117 3310200;  
 -  [venue images and information](http://www.bristol.ac.uk/burwalls/) ;  
-- Pam�s contact details: Department of English, University of Bristol, 3/5 Woodland Road, BRISTOL, BS8 1TB, e-mail: **  fampk@bristol.ac.uk** .  
+- Pam's contact details: Department of English, University of Bristol, 3/5 Woodland Road, BRISTOL, BS8 1TB, e-mail: **  fampk@bristol.ac.uk** .  
 
 ----
 
@@ -33,7 +33,7 @@ Go to     [ **PROGRAMME** ](programme_2008.html)    page
 
 ### **Registration Cost** 
 
-- The cost, �38 per person, includes morning and afternoon coffee/tea and biscuits, and a buffet lunch (includes vegan and vegetarian).  
+- The cost, £38 per person, includes morning and afternoon coffee/tea and biscuits, and a buffet lunch (includes vegan and vegetarian).  
 
 - The first two full-time postgraduate students to apply will have the cost of the day paid by Medieval English Theatre.  
 
@@ -43,7 +43,7 @@ s.niebrzydowski@bangor.ac.uk** or by phoning her at 01248 382111 (work).
 ### <a xmlns="http://www.w3.org/1999/xhtml"   name="accommodation"   id="accommodation"/> **Accommodation**
 
 
-- Contrary to their website information, 2008 prices are **�45** for bed and breakfast per person for single night stays (no rooms are ensuite). Please contact [burwalls-bookings@bristol.ac.uk](mailto:burwalls-bookings@bristol.ac.uk) for further information or to book a room. (Please note that the average cost of a modest single room in local hotels is now �70+).
+- Contrary to their website information, 2008 prices are **£45** for bed and breakfast per person for single night stays (no rooms are ensuite). Please contact [burwalls-bookings@bristol.ac.uk](mailto:burwalls-bookings@bristol.ac.uk) for further information or to book a room. (Please note that the average cost of a modest single room in local hotels is now £70+).
 
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="travel" id="travel"/> **Travel** 
 
@@ -58,7 +58,7 @@ s.niebrzydowski@bangor.ac.uk** or by phoning her at 01248 382111 (work).
 
  **Friday** 
 
-- For those who wish to arrive on the Friday, we will gather between 6.30pm�7.15pm at Burwalls reception and walk across the suspension bridge into Clifton for a moderately-priced and convivial dinner. Please indicate on the Registration form if you would like to join this party.
+- For those who wish to arrive on the Friday, we will gather between 6.30pm-7.15pm at Burwalls reception and walk across the suspension bridge into Clifton for a moderately-priced and convivial dinner. Please indicate on the Registration form if you would like to join this party.
 
  [**Saturday**](programme_2008/) 
 
