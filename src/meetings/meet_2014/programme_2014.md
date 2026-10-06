@@ -21,7 +21,7 @@ permalink: /meetings/meet_2014/programme_2014.html
 - 10.30 **Matthew Sergi**: 'The East Anglian Banns: Advertising and Audience Expectations'.
 - 11.00 **COFFEE**    
 - 11.30 **Clare Wright**: 'Sensing, Feeling, Remembering: Effecting Spiritual Change in Medieval Audiences'.
-- 12.00 **Diana Wyatt**: ''I'd have dressed for the occasion': Reflections on Audience Engagement with Biblical Plays'.
+- 12.00 **Diana Wyatt**: '"I'd have dressed for the occasion": Reflections on Audience Engagement with Biblical Plays'.
 - 12.30 **Orsolya Réthelyi**: '*Everyman* for Everyone? A Report on an International Collaboration (CODL) in the Study of Dutch Medieval Drama'.
 - 13.00  **LUNCH**    
 - 14.15 **Elisabeth Dutton &amp; Elsa Strietman**: 'Play(ing) in Progress: Dido, The Once and Future Queen?'.
