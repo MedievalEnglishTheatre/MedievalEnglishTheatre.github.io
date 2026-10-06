@@ -27,9 +27,9 @@ In the Silver Jubilee year of *Medieval English Theatre* the meeting returns to 
 - A table will be booked for **dinner** on the evening of Friday 28th March.  
  *Please indicate, by marking your slip clearly, if you require accommodation details, and whether or not you wish to have dinner on Friday 28th.*   
 
-- **Cost**: �18 per person: includes morning coffee, buffet lunch (with champagne) and afternoon tea, as well as overheads.  
+- **Cost**: £18 per person: includes morning coffee, buffet lunch (with champagne) and afternoon tea, as well as overheads.  
 
-- Anyone not wanting lunch may register at the reduced price of �9.  
+- Anyone not wanting lunch may register at the reduced price of £9.  
 
 - The first two registered full-time **postgraduate students** to apply will be paid for by *Medieval English Theatre*.
 
