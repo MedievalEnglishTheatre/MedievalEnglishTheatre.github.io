@@ -28,13 +28,15 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Davis, Nicholas|Another View of the *Tretise of Miraclis Pleyinge* [Find](vol04.html#Davis) |4:1|48–55|  
 |Davis, Nicholas|The Meaning of the Word *Interlude*: A Discussion [Find](vol06.html#Davis) |6:1|5–15|  
 |Davis, Nicholas| *Spectacula Christiana*: A Roman Christian Temple for Medieval Drama [Find](vol09.html#Davis) |9:2|125–152|  
-|Davis, Nicholas|The *Tretise of Myraclis Pleyinge*: On Milieu and Authorship [Find](vol12.html#Davis) |12:2|124–151|  
+|Davis, Nicholas|The *Tretise of Myraclis Pleyinge*: On Milieu and Authorship [Find](vol12.html#Davis) |12:2|124–151|
+|Deacon, E. Lucy| Remembering through Re-Enacting: Revisiting the Emergence of the Iranian *Ta'zia* Tradition [Find](vol41.html#Deacon) |41|58–83|
 |Dean, William|Some Aspects of the Law of Criminal Procedure in The Trial of Ismael in *Nice Wanton* [Find](vol13.html#Dean) |13|27–38|  
 |Diller, Hans-Jürgen|The Torturers in the English Mystery Plays [Find](vol11.html#Diller) |11|57–65|  
 |Dillon, Janette|John Rastell’s Stage [Find](vol18.html#Dillon) |18|15–45|  
 |Dillon, Janette|Performance Time: Suggestions for a Methodology of Analysis [Find](vol22.html#Dillon) |22|33–51|  
 |Divett, Anthony W.|An Early Reference to Devil’s Masks in the Nottingham Records [Find](vol06.html#Divett) |6:1|28–30|  
-|Dutton, Elisabeth|‘My Boy shall Knowe Himself from Other Men’: Active Spectating, Annunciation, and the St John’s College *Narcissus* [Find](vol38.html#Dutton) |38|68–83|  
+|Dutton, Elisabeth|‘My Boy shall Knowe Himself from Other Men’: Active Spectating, Annunciation, and the St John’s College *Narcissus* [Find](vol38.html#Dutton) |38|68–83| 
+|Dutton, Elisabeth &amp; Perry Mills| Staging John Redford's *Wit and Science* in 2019 [Find](vol41.#Dutton) |41|191–208| 
 |**<a name="E" id="E" class="alphaCenter">E</a>**||||
 |Egan, Clare|‘Now Fearing neither Friend nor Foe, to the Worldes Viewe these Verses goe’: Mapping Libel Performance in Early-Modern Devon [Find](vol36.html#Egan) |36|70–103|  
 |Egan, Clare|Reading *Mankind* in a Culture of Defamation [Find](vol40.html#Egan) |40|116–147|  
