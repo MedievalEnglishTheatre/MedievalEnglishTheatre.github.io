@@ -11,11 +11,11 @@ permalink: /meetings/meet_2005/dinner_2005.html
 
 We are asked to pre-book the menu (see [Menu](#Menu) below)
 
- **Location** : I have booked a private suite (room, bar, and toilets) upstairs at Langley�s Bistro, Bedford Place. This will ensure that we get some peace and quiet on a Friday night after a long day�s travelling.
+ **Location** : I have booked a private suite (room, bar, and toilets) upstairs at Langley's Bistro, Bedford Place. This will ensure that we get some peace and quiet on a Friday night after a long day's travelling.
 
  **Time** : We will gather from about 7, but are expected to eat at 7.30, as this will ensure that we get the attention of the staff before the surge of other diners.
 
- **Cost** : The cost of the 2-course meal (main course and pudding) will be �15 per person + share of 10% service charge (on party over 10) + share of any drinks we buy communally.
+ **Cost** : The cost of the 2-course meal (main course and pudding) will be £15 per person + share of 10% service charge (on party over 10) + share of any drinks we buy communally.
 
  **Method of payment** : I would suggest that I simply pay the restaurant on my credit card (I will have already paid the non-refundable deposit by this means), and you pay your share to me on the night. I accept cash and cheques, but not time-share options, or measures of oatmeal.
 
@@ -34,11 +34,11 @@ Just give me your name and choices as follows: McGavin C2.
 - E       Cherry Tomato, red onion, and capsicums pasta with a herb pesto (olive oil, not cream based)
 
  **Puddings** 
-- 1       Vanilla Cr�me Brulee
-- 2       Orange and Raisin Bread and Butter Pudding with Cr�me Anglaise
+- 1       Vanilla Crème Brulee
+- 2       Orange and Raisin Bread and Butter Pudding with Crème Anglaise
 - 3       Duo of Chocolate Mousse
 - 4       Boozy Fruit Cocktail with Citrus Mascarpone
-- 5       Mixed Cheese Platter (supplement of �4 per platter per person)
+- 5       Mixed Cheese Platter (supplement of £4 per platter per person)
 
 [Meeting 2005](/meetings/meet_2005/)
 
