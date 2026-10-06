@@ -15,7 +15,7 @@ banner_alt: "METh Title Banner"
 - 10.00 **Bob Godfrey**: The actual, the real, and allegory.
 - 10.30 **Meg Twycross**: Allegory: static and dynamic.
 - 11.00 Coffee.
-- 11.30 **Elsa Strietman**: �Fight the good fight�: the allegory of conflict in Rhetoricians� drama.
+- 11.30 **Elsa Strietman**: 'Fight the good fight': the allegory of conflict in Rhetoricians' drama.
 - 12.00 **Katie Normington**: Modern allegories: religion and contemporary re-stagings of medieval drama.
 - 12.30 **LUNCH** 
 - 1.30 **John McKinnell**: The breakdown of allegory, c.1490-1520.
