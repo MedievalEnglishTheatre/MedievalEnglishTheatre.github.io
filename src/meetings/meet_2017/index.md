@@ -50,7 +50,7 @@ Printable instructions and information on parking [ **here** ](Getting_There.doc
 
 Registration for the 2017 METh Meeting is now open. Please go to the **conference booking centre** at [https://www.eventbrite.co.uk/e/medieval-english-theatre-conference-2017-registration-30189316057](https://www.eventbrite.co.uk/e/medieval-english-theatre-conference-2017-registration-30189316057).
 
-The Conference Fee is �37 (including coffee, tea, and lunch, but not including the cost of the conference dinner on the previous night).
+The Conference Fee is £37 (including coffee, tea, and lunch, but not including the cost of the conference dinner on the previous night).
 
 Medieval English Theatre will meet the registration fees of the first two postgraduate students to register, so please indicate your status on the application form.
 
@@ -77,7 +77,7 @@ We are unable to offer on-campus accommodation. Below is a list of hotels, guest
 -  [Kelvin Hotel, 15 Buckingham Terrace](http://www.kelvinhotel.com). *Tel:* 0141 339 7143
 -  [Kelvingrove Hotel, 944 Sauchiehall Street](http://www.kelvingrove-hotel.co.uk). *Tel:* 0141 339 5011
 -  [Lomond Hotel, 6 Buckingham Terrace](http://www.lomondhotel.co.uk). *Tel:* 0141 339 2339
--  [McLays Guest House, 264 � 276 Renfrew Street](http://www.mclays.com). *Tel:* 0141 332 4796
+-  [McLays Guest House, 264 - 276 Renfrew Street](http://www.mclays.com). *Tel:* 0141 332 4796
 
  **Disclaimer:**  *By advertising privately run and commercial accommodation, the University of Glasgow is in no way holding itself out as an agent for or on behalf of any of the proprietors. Nobody from Residential Services has visited or inspected any of the properties listed and the University of Glasgow cannot guarantee the condition of any such accommodation.* 
 
