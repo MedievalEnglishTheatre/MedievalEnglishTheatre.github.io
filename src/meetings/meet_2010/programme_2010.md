@@ -13,7 +13,7 @@ permalink: /meetings/meet_2010/programme_2010.html
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="programme" id="programme"/>Programme  
 
 - 10.00 Registration and coffee
-- 10.30 **Olga Horner** (Lancaster): ''I am of counsel: one told me all the process': Inns of Court actors and audiences'.
+- 10.30 **Olga Horner** (Lancaster): '"I am of counsel: one told me all the process": Inns of Court actors and audiences'.
 - 10.55 **Thomas Meacham** (CUNY; read by Pamela M. King): 'Chaundler's *Liber Apologeticus*'.
 - 11.20 **Diana Wyatt** (REED editor): 'Oxford Academic Drama'.
 - 11.45 **Olivia Robinson** (Pembroke College, Oxford): 'The *Jeux* of Chantilly MS. 617: Page and Stage'.
