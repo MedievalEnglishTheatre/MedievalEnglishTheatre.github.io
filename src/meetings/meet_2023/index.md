@@ -30,28 +30,28 @@ banner_alt: "Images from The Hague: Museum Meermanno Westreenianum MS 10 B 23, G
 - 9.45-10.00 **Welcome** (Liv Robinson, University of Birmingham)   
 - 10.00-11.30 **Panel 1: Shaping the body as signifier**   
  *Clare Egan* (University of Lancaster):  
-          ‘Bodies and/as Texts in Libellous Performances’  
+          ‘Bodies and/as Texts in Libellous Performances’.  
  *Mark Chambers* (University of Durham):  
-          ‘The Disabled Body as Performance: Disabled Performers in the *Records of Early English Drama*’  
+          ‘The Disabled Body as Performance: Disabled Performers in the *Records of Early English Drama*’.  
  *Sadegh Attari* (University of Birmingham):  
-          ‘Disjointed Unison: Bodily Disintegration and Subversion in the *Croxton Play of the Sacrament*’  
+          ‘Disjointed Unison: Bodily Disintegration and Subversion in the *Croxton Play of the Sacrament*’.  
 - 11.30-12.00 **Coffee/Tea Break**  
 - 12.00-13.00 **Panel 2: Embodiment and Spectatorship**   
  *Gillian Redfern* (University of Manchester):  
-          ‘Embodying Spritual Flux and Stasis in *Mactatio Abel*’  
+          ‘Embodying Spritual Flux and Stasis in *Mactatio Abel*’.  
  *Greg Walker* (University of Edinburgh):  
-          ‘Embodiment and Kinesis in *The World and the Child*’
+          ‘Embodiment and Kinesis in *The World and the Child*’.
 - 13.00-14.15 **Lunch** : sandwiches and drinks, served in the foyer of Alan Walters  
 - 14.15-15.45 **Panel 3: Creating/Performing the Body**  
- *Sarah Carpenter* , *Elisabeth Dutton* , *Pamela M. King*, *Meg Twycross*, and *Diana Wyatt*:  
+ *Sarah Carpenter*, *Elisabeth Dutton* , *Pamela M. King*, *Meg Twycross*, *Aurélie Blanc*, and *Diana Wyatt*:  
           Staged Reading: ‘ *A Disputation Betwix the Body and Worms*’  
  *Ivan Cutting* (Artistic Director, Eastern Angles, Ipswich):  
-          ‘*Medieval Miracles* in 2023’  
+          ‘*Medieval Miracles* in 2023’.  
  *Jeffery Stoyanoff* (Penn State, Altoona):  
-          ‘Patriarchal Bodies in *Dux Moraud*’ \[paper to be delivered online\]
+          ‘Patriarchal Bodies in *Dux Moraud*’ \[paper to be delivered online\].
 - 16.00-17.00 *The Pilgrimage of the Life of Man* :  
           Film screening of the Medieval Convent Drama Project’s final production, with coffee and cake.  
-          Introduced by *Elisabeth Dutton* , Université de Fribourg.
+          Introduced by *Elisabeth Dutton* and *Aurélie Blanc*, Université de Fribourg.
 - 17.30-18.30 **Society AGM** for Members:  
           a glass of wine will be served at 5.15pm in the foyer of Alan Walters, ready to start at 5.30pm    
  
