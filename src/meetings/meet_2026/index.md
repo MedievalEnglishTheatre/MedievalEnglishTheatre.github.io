@@ -41,29 +41,29 @@ evening** at attendees’ own expense. This will take place in the ‘**Rabbit H
 - 9.20 **Welcome**  
 - 9.30-11.00 **Panel 1: Reconsidering ‘Performance’ in the Archive**   
   - *Ben Parsons* (University of Leicester):  
-          ‘Mum’s the Word: E.K. Chambers, Horatia Eden and the Lutterworth St George Play’  
+          ‘Mum’s the Word: E.K. Chambers, Horatia Eden and the Lutterworth St George Play’. 
   - *Phil Butterworth* (University of Leeds):  
-          ‘The York Mercers’ “pottyng stang”: Further Consideration of its Function’  
+          ‘The York Mercers’ “pottyng stang”: Further Consideration of its Function’.  
   - *Sarah Carpenter* (University of Edinburgh):  
-          ‘“Is this a Drama Record?”: Sir David Lyndsay and Pursuing Traces of Performance’
+          ‘“Is this a Drama Record?”: Sir David Lyndsay and Pursuing Traces of Performance’.
 - 11.00 **Coffee** 
 - 11.20-12.50 **Panel 2: ‘Celebrating’ Performance in the Archive**   
   - *James Cummings* (University of Newcastle):  
-         ‘Re-examining the Records: The Bishop’s Lynn Christmas Play of 1444/45’  
+         ‘Re-examining the Records: The Bishop’s Lynn Christmas Play of 1444/45’.  
   - *Daisy Black* (University of Wolverhampton):  
-          ‘Apple, Spice, Wine, Ale: Mundane and Sacred Foods in Early Performance Cultures’  
+          ‘Apple, Spice, Wine, Ale: Mundane and Sacred Foods in Early Performance Cultures’.  
   - *Mark Chambers* (University of Durham) :  
-          ‘50 Years of the *Records of Early English Drama* : The New, the Notable, the Necessary’
+          ‘50 Years of the *Records of Early English Drama* : The New, the Notable, the Necessary’.
 - 12.50 *Mark Chambers* and/or *Cecilia Istria-Dorland*):  
           Introduction to the afternoon play
 - 13.00-14.00 **Lunch**  
 - 14.00-15.30
   - *Diana Wyatt* (York):  
-          ‘“Contempt and disdayne” or Satirical Theatre? Alice Walker’s Cross-dressing Turn in Driffield Church, 1582, and its Status as a *REED* Record’  
+          ‘“Contempt and disdayne” or Satirical Theatre? Alice Walker’s Cross-dressing Turn in Driffield Church, 1582, and its Status as a *REED* Record’.  
   - *Isabelle Lepore-Thompson* (Open University):  
-          ‘The Lost Miracle Play: Contextualising the *Ludus de Sancta Katerina* (c.1097–1115)’  
+          ‘The Lost Miracle Play: Contextualising the *Ludus de Sancta Katerina* (c.1097–1115)’.  
   - *Patrick Durdel* (University of Oxford):  
-          ‘The Group Theatre’s *Fulgens and Lucrece* : Modern Archival Records and Practice-as-Research’
+          ‘The Group Theatre’s *Fulgens and Lucrece* : Modern Archival Records and Practice-as-Research’.
 - 15.30 **Break** 
 - 16.00 Performance of the York Skinners’ ‘Entry Into Jerusalem’ pageant, Scena Mundi Theatre Co., directed by Cecilia Istri-Dorland, St Oswald’s Church, Church Street.
 - 17.00-18.00 METh business meeting, with wine
