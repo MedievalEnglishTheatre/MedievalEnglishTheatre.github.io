@@ -60,7 +60,7 @@ though more intellectual delights are included!   [ **Download list** ](/assets/
 
 There are a number of hotels in the town centre many of which can be found at [ **Hotels in Fribourg** ](https://www.hotelsfribourg.com/tag/fribourg/) and delegates will also find a number of reasonable options available through [ **AirBnB** ](https://www.airbnb.co.uk/s/Fribourg--Switzerland/). There are many hotels located in the town centre and a short distance from the conference venue:
 
--  [ **H�tel du Faucon** ](http://www.hotel-du-faucon.ch/) . Offers university rates; mention that you are attending a conference at the University of Fribourg (~80-100CHF/night).  
+-  [ **Hôtel du Faucon** ](http://www.hotel-du-faucon.ch/) . Offers university rates; mention that you are attending a conference at the University of Fribourg (~80-100CHF/night).  
       Rue de Lausanne 76, CH-1700Fribourg  
       *Tel:* +41 26 321 37 90; *e-mail:* hotel@hotel-du-faucon.ch
 -  [ **Hotel de la Rose** ](https://www.hoteldelarose.ch/en/) . Offers university rates; mention that you are attending a conference at the University of Fribourg (~118-160CHF/night).  
@@ -72,7 +72,7 @@ There are a number of hotels in the town centre many of which can be found at [ 
 -  [ **Hotel Elite** ](http://www.elitefribourg.ch/en/) . Offers group rates if more than one room is booked (~95-150CHF/night).  
       Rue du Criblet 7, CH-1700 Fribourg       *Tel:* +41 26 350 22 60; *e-mail:* elitefribourg@bluewin.ch
 -  [ **Hotel Au Sauvage** ](http://www.hotel-sauvage.ch/en/) . No conference rates (~170-240CHF/night).  
-      Planche Sup�rieure 12, CH-1700 Fribourg       *Tel:* +41 26 347 30 60; *e-mail:* info@hotel-sauvage.ch
+      Planche Supérieure 12, CH-1700 Fribourg       *Tel:* +41 26 347 30 60; *e-mail:* info@hotel-sauvage.ch
 -  [ **Hotel Alpha** ](http://www.alpha-hotel.ch/) . No conference rates (~100-120CHF/night).  
       Rue du Simplon 13, CH-1700 Fribourg       *Tel:* +41 (0) 26 322 72 72; *e-mail:* hello@alpha-hotel.ch or through website
 -  [ **Hotel NH Fribourg** ](http://www.alpha-hotel.ch/) . No conference rates (~110CHF/night).  
