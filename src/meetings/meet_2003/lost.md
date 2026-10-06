@@ -11,6 +11,6 @@ banner_alt: "METh Title Banner"
 
 If you get lost or delayed ...
 
-on the day � don't panic: ring **07770 387 025**, and our friendly mobile-phone-person will respond (provided she remembers to charge her batteries).
+on the day, don't panic: ring **07770 387 025**, and our friendly mobile-phone-person will respond (provided she remembers to charge her batteries).
 
 
