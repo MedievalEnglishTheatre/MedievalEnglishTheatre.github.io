@@ -18,23 +18,23 @@ In **Furness SCR** (see [map](map/))
 
 In **Furness Lecture Theatre 3** (follow your leader)
 
-- 10.30 **Andrew Prescott**: Neglected Processional Cultures
+- 10.30 **Andrew Prescott**: 'Neglected Processional Cultures'.
 - 11.30 
-  **Pamela King**: Up Helly Aa: Space and Gender.  
-  **Sarah Carpenter**: 16th-century Scottish Court Records.
+  **Pamela King**: 'Up Helly Aa: Space and Gender'.  
+  **Sarah Carpenter**: '16th-century Scottish Court Records'.
 
 In **Furness SCR** 
 
 - 12.30 **LUNCH** 
-- 1.30 **Meg Twycross**: The South African *Mysteries* and Modern Performance, with video clips from the South African Academy of Performing Arts' production.
+- 1.30 **Meg Twycross**: 'The South African *Mysteries* and Modern Performance, with video clips from the South African Academy of Performing Arts' production'.
 
 - 2.00 **Round Table on Mystery Play Research**   
  **Peter Meredith**   
- **David Mills**: Chester and Cheshire;  
- **Penny Granger**: N-Town.
+ **David Mills**: 'Chester and Cheshire'.  
+ **Penny Granger**: 'N-Town'.
 
-- 3.00 **Phil Butterworth**: Bomelio Feats and Confederacy.  
- **John McGavin** and **Eila Williamson**: Records of Early Drama: Scotland.
+- 3.00 **Phil Butterworth**: 'Bomelio Feats and Confederacy'.  
+ **John McGavin** and **Eila Williamson**: 'Records of Early Drama: Scotland'.
 
 followed by **Silver Jubilee Survey** 
 
