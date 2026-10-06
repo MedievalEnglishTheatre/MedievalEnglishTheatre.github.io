@@ -28,11 +28,11 @@ On Friday 18 March, the [Early English Drama &amp; Performance Network](https://
 The METh Meeting will be held in [Keynes College](https://www.kent.ac.uk/maps/canterbury/canterbury-campus/building/keynes-college) , Lecture Theatre 2.
 
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="fee" id="fee"/> *Conference Fee* 
-The fee will be �35 for members of METh Society, �45 for non-members, and includes lunch. (You can apply to [join METh Society here](/apply/) .)
+The fee will be £35 for members of METh Society, £45 for non-members, and includes lunch. (You can apply to [join METh Society here](/apply/) .)
 
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="reg" id="reg"/> *Registration Details* 
 Please register either by
--  *on-line registration*: to register and pay for the meeting and Saturday evening dinner, please visit the University of Kent�s [Online Store](http://store.kent.ac.uk/browse/extra_info.asp?compid=1&amp;modid=1&amp;deptid=26&amp;catid=98&amp;prodvarid=174&amp;searchresults=1). Online registration will close on 4th March 2016. Please email Clare if you are registering online and would like to make a brief report on a project or collaboration;  
+-  *on-line registration*: to register and pay for the meeting and Saturday evening dinner, please visit the University of Kent's [Online Store](http://store.kent.ac.uk/browse/extra_info.asp?compid=1&amp;modid=1&amp;deptid=26&amp;catid=98&amp;prodvarid=174&amp;searchresults=1). Online registration will close on 4th March 2016. Please email Clare if you are registering online and would like to make a brief report on a project or collaboration;  
 
 or
 
@@ -47,8 +47,8 @@ For further information please contact Clare Wright (C.Wright-468@kent.ac.uk) ph
 
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="dinner" id="dinner"/> *Dinners* 
 You are invited to join us for dinner on the evenings of Friday 18th and Saturday 19th March (neither included in the conference fee).  
-Friday evening dinner is organised in conjunction with the Early English Drama and Performance Network Symposium. It will be held at [Caf� du Soleil](http://www.cafedusoleil.co.uk/) , cost �25-30, and will include the performance of a new play by Mairin O�Hagan and Sarah Anson, entitled *Marge and Jules*.  
-The Saturday evening meal is at [Chapman�s Seafood Bar and Brasserie](http://www.chapmanscanterbury.co.uk) and will cost �25 for a three-course dinner. More information on menu choices will follow after registration closes.  
+Friday evening dinner is organised in conjunction with the Early English Drama and Performance Network Symposium. It will be held at [Café du Soleil](http://www.cafedusoleil.co.uk/) , cost £25-30, and will include the performance of a new play by Mairin O'Hagan and Sarah Anson, entitled *Marge and Jules*.  
+The Saturday evening meal is at [Chapman's Seafood Bar and Brasserie](http://www.chapmanscanterbury.co.uk) and will cost £25 for a three-course dinner. More information on menu choices will follow after registration closes.  
 The Saturday dinner can be paid for *in advance via the online store*.  
 If you are paying via the store and would like to join us for dinner on Friday, please contact Tamara Haddad (t.n.haddad@kent.ac.uk) to reserve your place. If you are registering using the registration form, please tick the relevant boxes to join us for either or both of the dinners.  
 
