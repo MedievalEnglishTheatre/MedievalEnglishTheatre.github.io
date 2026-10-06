@@ -37,6 +37,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Butterworth, Philip|The Baptisme of Hir Hienes Darrest Sone in Stirviling [Find](vol10.html#Butterworth) |10:1|26-55|  
 |Butterworth, Philip|Gunnepowdyr, Fyre, and Thondyr [Find](vol07.html#Butterworth) |7:2|68-76|  
 |Butterworth, Philip|Hugh Platte's Collapsible Waggon [Find](vol15.html#Butterworth) |15|126-36|  
+|Butterworth, Philip|Jetties, Pentices, Purprestures, and Ordure: Obstacles to Pageants and Processions in London [Find](vol41.html#Butterworth) |41|166-190|
 |Butterworth, Philip|Magic Through Sound: Illusion, Deception, and Agreed Pretence [Find](vol21.html#Butterworth) |21|52-65|  
 |Butterworth, Philip|Pageant-Carriage Maintenance at Chester [Find](vol39.html#Butterworth) |39|5-34|  
 |Butterworth, Philip|Parts and Parcels: Cueing Conventions for the English Medieval Player [Find](vol30.html#Butterworth) |30|99-120|  
@@ -65,7 +66,8 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Castaño, Joan|Documentary Sources for the Study of the *Festa* of Elche [Find](vol12.html#Castano) |12:1|2-33|  
 |Cavanagh, Dermot|Skelton's *Magnyfycence* and tragic drama [Find](vol27.html#Cavanagh) |27|53-68|  
 |Cecire, Maria Sachiko| *Magnyfycence* Onscreen: Documentary Film as Translation [Find](vol35.html#Cecire) |35|3-22|  
-|Chacòn Carmona, Vicente|Singing Shepherds, Discordant Devils: Music and Song in Medieval Pastoral Plays [Find](vol32.html#Chacon) |32|62-80|  
+|Chacòn Carmona, Vicente|Singing Shepherds, Discordant Devils: Music and Song in Medieval Pastoral Plays [Find](vol32.html#Chacon) |32|62-80| 
+|Chambers, Mark &amp; Gašper Jakovac|Welcoming James the VI &amp; I in the North-East: Civic Performance and Conflict in Durham and Newcastle [Find](vol41.html#Chambers) |41|84-133|
 |Chaplan, Rosemary E.|'Farewell, jentyll Jaffrey': Speech-act Theory and *Mankind* [Find](vol11.html#Chaplan) |11|140-149|  
 |Charpentier, Hélène|Le mal, sa représentation et sa rétribution dans *Le mystère du Viel Testament* [Find](vol11.html#Charpentier) |11|104-115|  
 |Clopper, Lawrence M.|The Chester and the Other English Shepherds' Plays [Find](vol30.html#Clopper) |30|81-98|  
