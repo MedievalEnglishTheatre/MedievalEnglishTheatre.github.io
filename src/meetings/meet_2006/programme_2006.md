@@ -16,7 +16,7 @@ permalink: /meetings/meet_2006/programme_2006.html
 - 10.00 Coffee.
 - 10.30 **Alan Hood** (Edinburgh): 'Classical and medieval (Latin) drama: a case for disjunction'.
 - 11.00 **Jodi-Anne George** (Dundee): will lead a seminar on *Horestes*. 
-- 11.45 **Peter Happé** (Southampton): ''The Restless Mind that would never raging leave': Jasper Heywood's *Thyestes*'.
+- 11.45 **Peter Happé** (Southampton): '"The Restless Mind that would never raging leave": Jasper Heywood's *Thyestes*'.
 - 12.15 **Arjan van Dixhoorn** : 'Rhetoric in Action. Rhetoric and the Practice of Rhetorician Life in the Burgundian-Hapsburg Netherlands'.
 - 13.00 **LUNCH** 
 - 14.00  **Anke van Herk** (Amsterdam): 'Poetry and fable, the staging of Ovidian myth in the Low Countries (1475-1625)'.
