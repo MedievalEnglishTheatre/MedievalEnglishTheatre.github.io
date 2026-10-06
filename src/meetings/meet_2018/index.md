@@ -36,7 +36,7 @@ Symposium** run by the Early English Drama and Performance Network (registration
 
 #### **Friday 23th March** 
 
-- 19.30 Dinner (� la carte) at *Hui Wei*, 221 Glossop Road, SHEFFIELD S10 2GW [(http://www.huiwei.co.uk)](http://www.huiwei.co.uk). Take time in advance to consult the menu and make your choice! (The website is still under construction but the menus are all there.) [ **View Map** ](https://www.google.co.uk/maps/place/Hui+Wei/@53.3805495,-1.4840796,17z/data=!4m5!3m4!1s0x4879827f383e6ef5:0xe14c866c7929af6f!8m2!3d53.3799607!4d-1.4817407).  
+- 19.30 Dinner (à la carte) at *Hui Wei*, 221 Glossop Road, SHEFFIELD S10 2GW [(http://www.huiwei.co.uk)](http://www.huiwei.co.uk). Take time in advance to consult the menu and make your choice! (The website is still under construction but the menus are all there.) [ **View Map** ](https://www.google.co.uk/maps/place/Hui+Wei/@53.3805495,-1.4840796,17z/data=!4m5!3m4!1s0x4879827f383e6ef5:0xe14c866c7929af6f!8m2!3d53.3799607!4d-1.4817407).  
 All METh and EEDPN delegates invited.
 
 #### **Saturday 24th March**   
@@ -44,29 +44,29 @@ Humanities Research Institute, University of Sheffield, 34 Gell Street, Sheffiel
 
 - 9.00-9.15 **Registration and welcome**     (HRI)
 - 9.15-11.00 **York**     (HRI Conference Room) *Chair:* Pamela King  
- *Daisy Black*: �Beyond Product Placement: Craft, Identity and Anachronic Objects at York�  
- *Eleanor Bloomfield*: �Faith and the City: Playing the Passion in Fifteenth-Century York�  
- *Sian Witherden*: �The Real and the Virtual City: Touching Jerusalem during the York Corpus Christi Plays �  
- *Meg Twycross*: �The Sun in York�
+ *Daisy Black*: 'Beyond Product Placement: Craft, Identity and Anachronic Objects at York'.  
+ *Eleanor Bloomfield*: 'Faith and the City: Playing the Passion in Fifteenth-Century York'.  
+ *Sian Witherden*: 'The Real and the Virtual City: Touching Jerusalem during the York Corpus Christi Plays'.  
+ *Meg Twycross*: 'The Sun in York'.
 - 11.00-11.15 **Coffee/Tea break** 
 - 11.15-12.45 **Performance and Civic Piety**     (HRI Conference Room) *Chair*: Clare Wright  
- *Aurelie Blanc*: � *Desiderans torporem penitus exstirpare* : Medieval Convent Drama at Barking Abbey and Civic Unrest�  
- *Liv Robinson*: �The Carmelites and the Community: Nuns, Urban Procession, and Performance in Late Medieval Burgundy�  
- *Jason Burg*: �The Feast of St Anne: Procession and Pageantry in Medieval Lincoln�
+ *Aurélie Blanc*: '*Desiderans torporem penitus exstirpare* : Medieval Convent Drama at Barking Abbey and Civic Unrest'.  
+ *Liv Robinson*: 'The Carmelites and the Community: Nuns, Urban Procession, and Performance in Late Medieval Burgundy'.  
+ *Jason Burg*: 'The Feast of St Anne: Procession and Pageantry in Medieval Lincoln'.
 - 12.45-13.45 **Lunch and Performance**     (Jessop West G03)
 - 13.45-15.15 **Civic Performance and Power**     (HRI Conference Room) *Chair*: Diana Wyatt  
- *Eliza Hartrich*: �Recording (and Not Recording) Civic Rituals in Late Medieval England and Ireland�  
- *Mark Chambers*: ��Durhams old Cittie thus salutes our King�: Civic Performance and Royal Power in Post-Reformation Durham�  
- *Ga�per Jakovac*: �Newcastle Civic Drama and *The Love-sick King* �
+ *Eliza Hartrich*: 'Recording (and Not Recording) Civic Rituals in Late Medieval England and Ireland'.  
+ *Mark Chambers*: '"Durhams old Cittie thus salutes our King": Civic Performance and Royal Power in Post-Reformation Durham'.  
+ *Gašper Jakovac*: 'Newcastle Civic Drama and *The Love-sick King*'.
 - 15.15-15.30 **Tea/coffee break** 
 - 15.30-17.00 **Texts, Performances, and Cities**     (HRI Conference Room) *Chair*: John McGavin  
- *Phil Butterworth*: Jetties, Pentices, Purprestures, and Ordure: Obstacles to Pageants and Processions�  
- *Gillian Redfern*: �Is It Always Text and the City?�  
- *Jodi-Anne George*: �Staging Henryson�s *Testament of Cresseid* �
+ *Phil Butterworth*: 'Jetties, Pentices, Purprestures, and Ordure: Obstacles to Pageants and Processions'.  
+ *Gillian Redfern*: 'Is It Always Text and the City?'.  
+ *Jodi-Anne George*: 'Staging Henryson's *Testament of Cresseid*'.
 - 17.00-18.00 **METh AGM: Business meeting**     (HRI Conference Room)
 
 ### Afterwards
-Dinner (� la carte) at *The Devonshire Cat* 49 Wellington St, SHEFFIELD S1 4HG [(http://www.devonshirecat.co.uk)](http://www.devonshirecat.co.uk) ; also � la carte, though if a sufficient number of people sign up, they ask us to decide what we want to eat beforehand) directly after the close of the business meeting. Take time in advance to consult the menu and make your choice! [ **View Map** ](https://www.google.com/maps/place/Devonshire+Cat/@53.378014,-1.476769,15z/data=!4m5!3m4!1s0x0:0x2dbb9fa98bcaddfe!8m2!3d53.3780138!4d-1.4767694?hl=en-US) .
+Dinner (à la carte) at *The Devonshire Cat* 49 Wellington St, SHEFFIELD S1 4HG [(http://www.devonshirecat.co.uk)](http://www.devonshirecat.co.uk) ; also à la carte, though if a sufficient number of people sign up, they ask us to decide what we want to eat beforehand) directly after the close of the business meeting. Take time in advance to consult the menu and make your choice! [ **View Map** ](https://www.google.com/maps/place/Devonshire+Cat/@53.378014,-1.476769,15z/data=!4m5!3m4!1s0x0:0x2dbb9fa98bcaddfe!8m2!3d53.3780138!4d-1.4767694?hl=en-US) .
 
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="hotels" id="hotels"/> **ACCOMMODATION** 
 
@@ -74,7 +74,7 @@ Below is a list of suggested hotels in Sheffield.
 
  **Central** - with easy access to station and venue (by tram and/or on foot)
 
--  [Mercure Sheffield St Paul�s Hotel](http://www.mercure.com/gb/hotel-6628-mercure-sheffield-st-paul-s-hotel-and-spa/index.shtml) .  
+-  [Mercure Sheffield St Paul's Hotel](http://www.mercure.com/gb/hotel-6628-mercure-sheffield-st-paul-s-hotel-and-spa/index.shtml) .  
       119 Norfolk Street, SHEFFIELD S1 2JE  
       *Tel:* 0114 278 2000; *e-mail:* H6628@accor.com
 -  [Leopold Hotel](https://www.leopoldhotel.co.uk) .  
