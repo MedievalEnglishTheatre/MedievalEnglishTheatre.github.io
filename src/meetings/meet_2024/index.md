@@ -34,23 +34,23 @@ For **Abstracts** of the following papers, please see the conference website [Pr
 - 10.45-11.00 **Welcome and Opening of METh 2024**    
 - 11.00-12.30 **Session 1: Illuminating the Margins**   
  *Charlotte Steenbrugge* (University of Sheffield):  
-          ‘Dramatic Margins’  
+          ‘Dramatic Margins’.  
  *Philip Butterworth* (University of Leeds):  
-          ‘Christ Riding the Stang’  
- *Sarah Grandage* (University of Nottingham) and Dana Key (University of Nottingham):  
-          ‘Narrating from the Margins’
+          ‘Christ Riding the Stang’.  
+ *Sarah Grandage* (University of Nottingham) and *Dana Key* (University of Nottingham):  
+          ‘Narrating from the Margins’.
 - 12.30-13.30 **Lunch** (at venue).  
 - 13.30-15.00 **Session 2: Drama on the Margins**  
  *Nadia van Pelt* (Delft University of Technology) and *Olivia Robinson* (University of Birmingham):  
-          ‘Reconsidering the Ludic Figures in Kuperstichkabinett MS 78 D5’  
+          ‘Reconsidering the Ludic Figures in Kuperstichkabinett MS 78 D5’.  
  *Margaret Pappano* (Queen’s University, Canada):  
-          ‘The Drama of the Scaffold: Punishment and Performance in Medieval France’  
+          ‘The Drama of the Scaffold: Punishment and Performance in Medieval France’.  
  *David Parkinson* (University of Saskatchewan) and *Pamela King* (University of Glasgow):  
-          ‘Henry Adamson’s *The Muses Threnodie* as Para-drama’
+          ‘Henry Adamson’s *The Muses Threnodie* as Para-drama’.
 - 15.00-15.30 Break with refreshments   
 - 15.30-17.00 **Session 3: Pre-Dramatic Theatre Panel**   
  *Eleanor Rycroft* (University of Bristol), *Clare Wright* (University of Kent), *Greg Walker* (University of Edinburgh):  
-          ‘Pre-Dramatic Theatre’
+          ‘Pre-Dramatic Theatre’.
 - 17.00-17.30 Closing Break with Refreshments
 - 17.30-18.30 **Medieval English Theatre Society AGM** (all welcome):
 - 18.30 End of meeting (Possible additional evening meal)  
