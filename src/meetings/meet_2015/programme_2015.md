@@ -17,24 +17,24 @@ permalink: /meetings/meet_2015/programme_2015.html
 - 9.15 Registration    
 - 9.30 **Welcome** .The Conference will also acknowledge the members of Medieval English Theatre who have died this year.
 - 9.45
-  **Pamela King** (Glasgow): �Medieval Drama Criticism before *Medieval English Theatre* �.
+  **Pamela King** (Glasgow): 'Medieval Drama Criticism before *Medieval English Theatre*'.
 - 10.15
-  **Lindsey Cox** (Kent): �The portrait miniature in John Redford's play *Wit and Science* �.
+  **Lindsey Cox** (Kent): 'The portrait miniature in John Redford's play *Wit and Science*'.
 - 10.45 **COFFEE**    
 - 11.15
- **Stephanie Allen &amp; James McBain** (both Fribourg): �Paradigms Lost: Rehabilitating Academic Drama�.
+ **Stephanie Allen &amp; James McBain** (both Fribourg): 'Paradigms Lost: Rehabilitating Academic Drama'.
 - 11.45
   **Elisabeth Dutton** (Fribourg): A staged reading of an Oxford Christmas entertainment based on the story of Narcissus.
 
 - 12.00 **LUNCH**    
 - 13.45  
-  **Garrett Epp** (Alberta &amp; Lille), with additional information from **Meg Twycross** (Lancaster): �Things we can�t say any longer about the *Towneley Plays* �.
+  **Garrett Epp** (Alberta &amp; Lille), with additional information from **Meg Twycross** (Lancaster): 'Things we can't say any longer about the *Towneley Plays*'.
 - 14.15
-  **Jason Burg** (Birmingham): ��According to the church�s custom�: The Spatial Shift in Lincoln Cathedral Performance, 1309-1642�.
+  **Jason Burg** (Birmingham): '"According to the church's custom": The Spatial Shift in Lincoln Cathedral Performance, 1309-1642'.
 - 14.45
-  **Nadia van Pelt** (Leiden): ��A daring and remarkable interpretation of a part of the Apocalypse�: Henry VIII's spectator experience and performance (June 1535)�.
+  **Nadia van Pelt** (Leiden): '"A daring and remarkable interpretation of a part of the Apocalypse": Henry VIII's spectator experience and performance (June 1535)'.
 - 15.15 **TEA**    
-- 15.45 **Greg Walker** (Edinburgh): �Spectatorship�, followed by Discussion.
+- 15.45 **Greg Walker** (Edinburgh): 'Spectatorship', followed by Discussion.
 - 16.30 Annual *Medieval English Theatre*  **Business Meeting** , including announcements, *brief* reports, finance, projects, plans, and the topic and location of the next two conferences.
 - 17.00 Close of Conference.
 
