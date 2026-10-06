@@ -15,9 +15,9 @@ banner_alt: "METh Title Banner"
 This year the Medieval English Theatre meeting on **London** will be:
 
 - hosted by Ruth Kennedy and Katie Normington at Royal Holloway;  
-- held in the College�s School of Management, at Royal Holloway, Egham Hill, Egham, Surrey TW20 OEX 01784;  
+- held in the College's School of Management, at Royal Holloway, Egham Hill, Egham, Surrey TW20 OEX 01784;  
 - maps at [http://www.rhul.ac.uk/shared/maps/](http://www.rhul.ac.uk/shared/maps/) . The management building 12 on the campus map and the Hub at 41;  
-- Ruth and Katie�s contact details: *e-mail*   **R.Kennedy@rhul.ac.uk; K.Normington@rhul.ac.uk** .  
+- Ruth and Katie's contact details: *e-mail*   **R.Kennedy@rhul.ac.uk; K.Normington@rhul.ac.uk** .  
 
 ----
 
@@ -35,7 +35,7 @@ Go to     [ **PROGRAMME** ](programme_2009.html)    page
 
 ### **Registration Cost** 
 
-- The cost, �40 per person, includes morning and afternoon coffee/tea and biscuits, and a lunch.  
+- The cost, £40 per person, includes morning and afternoon coffee/tea and biscuits, and a lunch.  
 
 - The first two full-time postgraduate students to apply will have the cost of the day paid by Medieval English Theatre.  
 
@@ -46,35 +46,35 @@ Go to     [ **PROGRAMME** ](programme_2009.html)    page
 **Book quickly!** 
 
 - There are single and double rooms at the Hub on campus which you can book on-line at [http://www.cmsonline.rhul.ac.uk/RHULShortbreaks/BnB/Step1.aspx](http://www.cmsonline.rhul.ac.uk/RHULShortbreaks/BnB/Step1.aspx)   
-Single rooms from **�55** for bed and breakfast per person.  
+Single rooms from **£55** for bed and breakfast per person.  
 
 - Otherwise there are **4 B&amp;Bs** about a 10-15 minute walk from campus:
     -  **Bulkeley House**  [http://www.bulkeleyhouse.co.uk](http://www.bulkeleyhouse.co.uk)   
        Englefield Green, Middle Hill  
        Egham, TW200JU  
        01784 431287,  
-       Single rooms from �55  
+       Single rooms from £55  
 
     - **Hydeaway House**  [http://www.hydeawayhouse.com](http://www.hydeawayhouse.com)   
        Englefield Green, 6 Lodge Close, TW20 0JE  
        01784-436048, *e-mail*   **brenda.lyon@hydeawayhouse.co.uk**   
-       Singles from �40 (with sherry!)  
+       Singles from £40 (with sherry!)  
 
     -  **Beau Villa**   
        44 Grange Rd, Egham, TW20 9QP  
        Phone: +44 (0)1784 435115  
        Fax: +44 (0)1784 741250  
-       Singles from �35  
+       Singles from £35  
 
     -  **The Old Parsonage** 2 Parsonage Rd, Egham, TW20 0JW  
        Phone: +44 (0)1784 436706  
        Fax: +44 (0)1784 436706  
-       Singles from �48
+       Singles from £48
 
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="travel" id="travel"/> **Travel** 
 
 
-- You can get to Egham from Waterloo on the train that goes to Reading. From the station get a taxi to campus (about 15 min walk up a hill otherwise) or on Friday night walk to Loch Fyne directly (see below � it�s about 10 minutes)  
+- You can get to Egham from Waterloo on the train that goes to Reading. From the station get a taxi to campus (about 15 min walk up a hill otherwise) or on Friday night walk to Loch Fyne directly (see below - it's about 10 minutes)  
 
 - There is car-parking on campus (check with accommodation for details)
 - Maps at [http://www.rhul.ac.uk/shared/maps](http://www.rhul.ac.uk/shared/maps) 
@@ -82,7 +82,7 @@ Single rooms from **�55** for bed and breakfast per person.
 ### <a xmlns="http://www.w3.org/1999/xhtml" name="Programme" id="Programme"/> **Programme**  
 
  **Friday** 
-- For those who wish to arrive on the Friday, we will gather at Loch Fyne, 5-6 High Street, Egham at 6.45pm for dinner (they do meat too). Please indicate if you wish to attend and we will send a menu for you to chose in advance � the fixed menu for dinner prior to 7pm is �12 (starter, main course, side order and glass of wine). See [Map](http://maps.google.co.uk/maps?hl=en&amp;ie=UTF-8&amp;q=loch+fyne+egham&amp;fb=1&amp;split=1&amp;dtab=2&amp;cid=3525053808638893662&amp;li=lmd&amp;z=14&amp;t=m)   
+- For those who wish to arrive on the Friday, we will gather at Loch Fyne, 5-6 High Street, Egham at 6.45pm for dinner (they do meat too). Please indicate if you wish to attend and we will send a menu for you to chose in advance - the fixed menu for dinner prior to 7pm is £12 (starter, main course, side order and glass of wine). See [Map](http://maps.google.co.uk/maps?hl=en&amp;ie=UTF-8&amp;q=loch+fyne+egham&amp;fb=1&amp;split=1&amp;dtab=2&amp;cid=3525053808638893662&amp;li=lmd&amp;z=14&amp;t=m)   
 
 - There is parking at back of Loch Fyne restaurant.
 
