@@ -11,8 +11,8 @@ banner_alt: "METh Title Banner"
 
 
 -  [map of the University](http://www.bangor.ac.uk/tour/documents/LocationMap.pdf) ; the venue for the meeting is at no. **51** , Main Arts, Lecture Room 1, first floor.  
-- the cost will be �35 including lunch;
-- Sue�s contact details are: *e-mail*   **(s.niebrzydowski@bangor.ac.uk)** *telephone*  **01248 382111(work)**.
+- the cost will be £35 including lunch;
+- Sue's contact details are: *e-mail*   **(s.niebrzydowski@bangor.ac.uk)** *telephone*  **01248 382111(work)**.
 
 ----
 
