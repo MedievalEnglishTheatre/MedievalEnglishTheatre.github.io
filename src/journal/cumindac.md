@@ -31,7 +31,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Baldwin, Elizabeth|A Note on the Chester pageant route [Find](vol27.html#Baldwin) |27|131-132|  
 |Bawcutt, Priscilla|A Note on the Term *Morality* [Find](vol28.html#Bawcutt) |28|171-174|  
 |Beckett, Jamie| *Pendens super feretrum*: Fergus, Aelred, and the York Funeral of the Virgin [Find](vol39.html#Beckett) |39|103-125|  
-|Blanc, Aurélie| Performing Female Authority: Convent Plays and Lay Spectatorship in the Barking Abbey Elevatio and Visitatio Sepulchri Dramatic Ceremonies [Find](vol42.html#Blanc) |42|50-89| 
+|Blanc, Aurélie| Performing Female Authority: Convent Plays and Lay Spectatorship in the Barking Abbey *Elevatio* and *Visitatio Sepulchri* Dramatic Ceremonies [Find](vol42.html#Blanc) |42|50-89| 
 |Blanc, Aurélie &amp; Olivia Robinson|The Huy *Nativity* from the Seventeenth to the Twenty-First Century: Translation, Play-Back, and Pray-Back [Find](vol40.html#Blanc) |40|62-93|  
 |Bose, Mishtooni|The Theatre of the Mind in Late-Medieval England [Find](vol38.html#Bose) |38|115-128|  
 |Brown, John|The Devils in the York *Doomsday* [Find](vol11.html#Brown) |11|26-41|  
