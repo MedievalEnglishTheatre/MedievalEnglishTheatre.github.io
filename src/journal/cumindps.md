@@ -66,6 +66,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Stewart, Alan|‘Ydolatricall Sodometrye’: John Bale’s Allegory  [Find](vol15.html#Stewart) |15|3–20|  
 |Stokes, James|The Beccles Game Place and Local Drama in Early North-East Suffolk  [Find](vol39.html#Stokes) |39|77–102|  
 |Stokes, James|The Lesser Patrons of Greater Somerset: Minor Sponsorship and Local Records  [Find](vol13.html#Stokes) |13|18–26|  
+|Stokes, James|Women in Religious Guilds: Performance and Community in Medieval and Tudor England  [Find](vol42.html#Stokes) |42|90–114|
 |Streitberger, W.R.|Court Performances by the King’s Players, 1510-1521  [Find](vol14.html#Streitberger) |14|95–101|  
 |Streitberger, W.R.|The Development of Henry VIII’s Revels Establishment  [Find](vol07.html#Streitberger) |7:2|83–100|  
 |Streitberger, W.R.|William Cornish and the Players of the Chapel  [Find](vol08.html#Streitberger) |8:1|3–20|  
