@@ -14,12 +14,12 @@ volume_number: 45
 
 |AUTHOR|TITLE  |Pages|
 |-------|-------|-------|  
-|<a  name="twycross" id="twycross"> </a>Meg Twycross|John Blanke‘s Hat and its Contexts: Part One: Turbans and Islamic Dress at the Court of Henry VIII ||  
-|<a  name="attari" id="attari"> </a>Sadegh Attari|Disjointed Unison: Bodily Porousness and Subversion in the Croxton *Play of the Sacrament*||  
-|<a  name="chambers" id="chambers"> </a>Mark Chambers|The Disabled Body as Performance: ‘Disabled’ Performers in the Records of Early English Drama ||  
-|<a  name="cowen" id="cowen"> </a>Janet Cowen|From Huy To Primrose Hill: An Early-Twentieth-Century English Re-Playing of a Fifteenth-Century Liégeois Nativity Play ||  
-|<a  name="marshall" id="marshall"> </a>Aurélie Blanc|‘More medieval morality play than 21st century’: Spectacle and its Meaning at the Coronation of King Charles III  ||  
-|<a  name="carpenter" id="carpenter"> </a>Sarah Carpenter| *Reports of productions*: *The Seven Sages of Scotland*, Edinburgh July 2023 ||
+|<a  name="twycross" id="twycross"> </a>Meg Twycross|John Blanke‘s Hat and its Contexts: Part One: Turbans and Islamic Dress at the Court of Henry VIII |3-67|  
+|<a  name="attari" id="attari"> </a>Sadegh Attari|Disjointed Unison: Bodily Porousness and Subversion in the Croxton *Play of the Sacrament*|68-101|  
+|<a  name="chambers" id="chambers"> </a>Mark Chambers|The Disabled Body as Performance: ‘Disabled’ Performers in the Records of Early English Drama |102-125|  
+|<a  name="cowen" id="cowen"> </a>Janet Cowen|From Huy To Primrose Hill: An Early-Twentieth-Century English Re-Playing of a Fifteenth-Century Liégeois Nativity Play |126-152|  
+|<a  name="marshall" id="marshall"> </a>Aurélie Blanc|‘More medieval morality play than 21st century’: Spectacle and its Meaning at the Coronation of King Charles III  |153-184|  
+|<a  name="carpenter" id="carpenter"> </a>Sarah Carpenter| *Reports of productions*: *The Seven Sages of Scotland*, Edinburgh July 2023 |185-193|
 {: .issueContents-table}
 
 ----
