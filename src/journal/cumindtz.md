@@ -37,6 +37,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Twycross, Meg| *Neque vox neque sensus*: The Resuscitation of Wit in *Wit and Science*  [Find](vol32.html#Twycross) |32|81–115|  
 |Twycross, Meg|A Pageant-Litter Drawing by Dürer  [Find](vol01.html#TwycrossC) |1:2|70–72|  
 |Twycross, Meg|Producing the Journal over Forty Years  [Find](vol40.html#journal) |40|4–6|  
+|Twycross, Meg|The Prince of Peace and the Mummers: Richard II and the Londoners’ Visit of 1376/1377  [Find](vol43.html#Twycross) |43|3–38|  
 |Twycross, Meg|‘Say thy lesson, fool’: Idleness tries to teach Ignorance to read  [Find](vol33.html#Twycross) |33|75–121|  
 |Twycross, Meg|The Sun in York (Part One): Illumination, Reflection, and Timekeeping for the Corpus Christi Play  [Find](vol40.html#Twycross) |40|141–157|  
 |Twycross, Meg|The Sun in York (Part Two): Illumination, Reflection, and Timekeeping for the Corpus Christi Play  [Find](vol41.html#Twycross) |41|4–57|  
@@ -45,6 +46,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Twycross, Meg|Two Maid Marians and a Jewess  [Find](vol09.html#Twycross) |9:1|6–7|  
 |Twycross, Meg| *Virtuous and Godly Susanna*: Exemplum and Allegory; *Appendix*: The Changing Face of Hester  [Find](vol34.html#twycross) |34|96–154|  
 |Twycross, Meg|The York Mercers *Lewent Brede* and the Hanseatic Trade  [Find](vol17.html#Twycross) |17|96–119|  
+|Twycross, Meg &amp; Philip Bennett|Appendix: Transcription and Translation of BL MS Cotton Nero D II fols 260v–262r  [Find](vol43.html#Twycross) |43|80-107|  
 |Twycross, Meg and Sarah Carpenter|Masks in Medieval English Theatre: The Mystery Plays  [Find](vol03.html#Carpenter) |3:1|7–44|  
 |Twycross, Meg and Sarah Carpenter|Masks in Medieval English Theatre: The Mystery Plays 2  [Find](vol03.html#CarpenterB) |3:2|69–113|  
 |Twycross, Meg and Sarah Carpenter|Materials and Methods of Mask-making  [Find](vol04.html#Carpenter) |4:1|28–47|  
