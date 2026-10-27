@@ -14,11 +14,14 @@ volume_number: 47
 
 |AUTHOR|TITLE  |Pages|
 |-------|-------|-------|  
-|<a name="steenbrugge" id="steenbrugge"> </a>Charlotte Steenbrugge|Censorship and Gendered Speech in Sixteenth-Century Bruges: The Case of Cornelis Everaert || 
-|<a name="megna" id="megna"> </a>Paul Megna|Dreadful Didacticism in the Macro Morality Plays ||
-|<a name="pappano" id="pappano"> </a>Margaret Pappano|Priests as Players: A Tretise of Miraclis Pleyinge and Devotional Performance ||
-|<a name="butterworth" id="butterworth"> </a>Philip Butterworth|Governance of the Corpus Christi Play at Beverley ||
-|<a name="twycross" id="twycross"> </a>Meg Twycross|John Blanke’s Hat and its Contexts, Part 2: The Hapsburg Hairnet ||
+||Gordon Lee Kipling: An Obituary|3-8| 
+|<a name="carlson" id="carlson"> </a>Marla Carlson|Blindman Farces as Slapstick: Gallebois, Masoupé, and their Guides|9-38| 
+|<a name="steenbrugge" id="steenbrugge"> </a>Charlotte Steenbrugge and Elisabeth Dutton|Framing the Stage and Staging the Frame: *Man's Desire and Fleeting Beauty*|39-66|
+|<a name="strietman" id="strietman"> </a>Elsa Strietman and Charlotte Steenbrugge|Cornelis Everaert: *The Play of The Fluctuating Currency*: a Translation|67-94|
+|<a name="albert" id="albert"> </a>Mandy L. Albert|Cornelis Everaert: *The Play of Great Labour and Meagre Profit*: a Translation|95-120|
+|<a name="dutton" id="dutton"> </a>Elisabeth Dutton and Cathy Hume|Staging *The Life of Job*: a Performance Experiment|121-146|
+|<a name="deacon" id="deacon"> </a>E. Lucy Deacon|The *Taʿziyeh* Episode of *The Noble Prophet Ayoub*: a Translation|147-173|
+|<a name="ridley" id="ridley"> </a>Jacob Ridley|*Report of Productions*: Edward’s Boys: *The Enterlude of The Godly Queen Hester*, Christ Church College, Oxford, Friday 28 March 2025|174-179|
 {: .issueContents-table}
 
 ----
