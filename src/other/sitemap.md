@@ -14,7 +14,7 @@ permalink: /other/sitemap.html
     -  [Society Constitution](/society/socconst.html) 
 
 -  [MEETINGS](/meetings/) 
-    - [Current Meeting (2026)](/meetings/meet_2026/): Information about 2026 meeting
+    - [Next Meeting (2027)](/meetings/meet_2027/): Information about 2026 meeting
     - [Past Meetings](/meetings/meet_past.html): archive from 1979, with details of programmes from 2002 to the present  
 
 -  [JOURNAL](/journal) 
