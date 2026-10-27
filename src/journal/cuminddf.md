@@ -37,6 +37,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Dillon, Janette|Performance Time: Suggestions for a Methodology of Analysis [Find](vol22.html#Dillon) |22|33–51|  
 |Divett, Anthony W.|An Early Reference to Devil’s Masks in the Nottingham Records [Find](vol06.html#Divett) |6:1|28–30|  
 |Dutton, Elisabeth|‘My Boy shall Knowe Himself from Other Men’: Active Spectating, Annunciation, and the St John’s College *Narcissus* [Find](vol38.html#Dutton) |38|68–83| 
+|Dutton, Elisabeth|Feminism, Theatre, and Historical Fiction: Anna of Cleves in 2021 [Find](vol43.html#Dutton) |43|224-236| 
 |Dutton, Elisabeth &amp; Perry Mills| Staging John Redford's *Wit and Science* in 2019 [Find](vol41.html#Dutton) |41|191–208| 
 |Dutton, Elisabeth &amp; Olivia Robinson|Introduction: Reflections on the Medieval Convent Drama Project [Find](vol42.html#Dutton) |42|1-9|
 |**<a name="E" id="E" class="alphaCenter">E</a>**||||
@@ -53,6 +54,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Fletcher, Alan J. with Meg Twycross and Malcolm Jones|‘Farte Prycke in Cule’: The Pictures [Find](vol23.html#Twycross) |23|100–121|  
 |Forbes, Derek|A Note on Pageant Waggons [Find](vol06.html#Forbes) |6:1|4|  
 |Forest-Hill, Lynn|Lucian’s Satire of Philosophers in Heywood’s *Play of the Wether* [Find](vol18.html#Forest_Hill) |18|142–160|
+|Fors, James H.|Peers and Performers in the Reign of Henry VI [Find](vol43.html#Fors) |43|124-190|
 {: .author-table} 
 
 | [A](cumindac.html#A) | [B](cumindac.html#B) | [C](cumindac.html#C) | [D](cuminddf.html#D) | [E](cuminddf.html#E) | [F](cuminddf.html#F) | [G](cumindgj.html#G) | [H](cumindgj.html#H) | [I](cumindgj.html#I) | [J](cumindgj.html#J) | [K](cumindko.html#K) | [L](cumindko.html#L) | [M](cumindko.html#M) |
