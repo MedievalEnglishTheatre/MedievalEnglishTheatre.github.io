@@ -16,8 +16,7 @@ volume_number: 44
 |-------|-------|-------|  
 |<a  name="pelt" id="pelt"> </a>Nadia T. van Pelt|John Blanke’s Wages: No Business like Show Business  |3 – 35|  
 |<a  name="king" id="king"> </a>Pamela M. King|Perpetually Editing Towneley: A Speculative Textual Note on Mrs Noah’s 'Stafford Blue' |36 –47|  
-|<a  name="parsons" id="parsons"> </a>Ben Parsons &amp; Bas Jongenelen|Understanding the Blanket Toss in Medieval Drama: The case of *Een Cluijt van Lijsgen en Jan Lichthart*  
-|48 – 90|  
+|<a  name="parsons" id="parsons"> </a>Ben Parsons &amp; Bas Jongenelen|Understanding the Blanket Toss in Medieval Drama: The case of *Een Cluijt van Lijsgen en Jan Lichthart* |48 – 90|  
 |<a  name="gerhardt" id="gerhardt"> </a>Ernst Gerhardt|Alimentary Address and the Management of Appetite and Hunger in *Jacob and Esau* |91 –123|  
 |<a  name="dutton" id="dutton"> </a>Elisabeth Dutton &amp; Olivia Robinson|Last Supper, First Communion: Some Staging Challenges in N.Town and the Huy Nuns' Play based on Deguileville‘s *Pélerinage de la vie humaine*  [Open Access PDF](/assets/summaries/Dutton_and_Robinson_OA.pdf) |124 – 160|  
 
