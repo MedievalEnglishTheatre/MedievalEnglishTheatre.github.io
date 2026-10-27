@@ -54,7 +54,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Fletcher, Alan J. with Meg Twycross and Malcolm Jones|‘Farte Prycke in Cule’: The Pictures [Find](vol23.html#Twycross) |23|100–121|  
 |Forbes, Derek|A Note on Pageant Waggons [Find](vol06.html#Forbes) |6:1|4|  
 |Forest-Hill, Lynn|Lucian’s Satire of Philosophers in Heywood’s *Play of the Wether* [Find](vol18.html#Forest_Hill) |18|142–160|
-|Fors, James H.|Peers and Performers in the Reign of Henry VI [Find](vol43.html#Fors) |43|124-190|
+|Forse, James H.|Peers and Performers in the Reign of Henry VI [Find](vol43.html#Forse) |43|124-190|
 {: .author-table} 
 
 | [A](cumindac.html#A) | [B](cumindac.html#B) | [C](cumindac.html#C) | [D](cuminddf.html#D) | [E](cuminddf.html#E) | [F](cuminddf.html#F) | [G](cumindgj.html#G) | [H](cumindgj.html#H) | [I](cumindgj.html#I) | [J](cumindgj.html#J) | [K](cumindko.html#K) | [L](cumindko.html#L) | [M](cumindko.html#M) |
