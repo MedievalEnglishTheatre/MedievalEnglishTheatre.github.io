@@ -85,6 +85,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |McKinnell, John|Staging the Digby *Mary Magdalen*  [Find](vol06.html#McKinnell) |6:2|126–152|  
 |Mamczarz, Irène|The Representation of Cities in the Baroque Opera and the Development of Italian-Style Scenography  [Find](vol16.html#Mamczarz) |16|142–165|  
 |Meacham, Thomas|Exchanging Performative Words: Epistolary Performance and University Drama in Late Medieval England  [Find](vol32.html#Meacham) |32|12–25|  
+|Megna, Paul|Dreadful Didacticism in the Macro Morality Plays  [Find](vol46.html#Megna) |46|41-71|  
 |Meredith, Peter|Development of the York Mercers’ Pageant Waggon  [Find](vol01.html#Meredith) |1:1|5–18|  
 |Meredith, Peter|‘Fart Pryke in Cule’ and Cock Fighting  [Find](vol06.html#Meredith) |6:1|30–39|  
 |Meredith, Peter|The Sealing of the Tomb: N. Town and its Context  [Find](vol29.html#Meredith) |29|75–88|  
