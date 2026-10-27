@@ -61,6 +61,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |MacLean, Sally-Beth and Tanya Hagen|How to Track a Bear in Southwark: a learning module  [Find](vol37.html#macLean) |37|90–104|  
 |MacLean, Sally-Beth|In Search of Lord Strange: Dynamic Patronage in the North West  [Find](vol29.html#MacLean) |29|42–59|  
 |Månd, Anu|Devils of Baltic Towns in the Context of Late-Medieval German Tradition  [Find](vol23.html#Mand) |23|17–33|  
+|Marshall, Camille|When in Doubt: *Thomas Indie* and the Mid-Sixteenth-Century Reception of the Towneley Collection  [Find](vol42.html#Marshall) |42|115–141|
 |Marshall, John|‘A Gladnes of Robin Hood’s Men’: Henry VIII Entertains Queen Katherine   [Find](vol40.html#Marshall) |40|94–115|  
 |Marshall, John|‘Fortune in Worldys Worschyppe’: The Satirising of the Suffolks in *Wisdom*  [Find](vol14.html#Marshall) |14|37–66|  
 |Marshall, John|Marginal Staging Marks in the Macro Manuscript of *Wisdom*  [Find](vol07.html#Marshall) |7:2|77–82|  
