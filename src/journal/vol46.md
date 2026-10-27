@@ -14,11 +14,11 @@ volume_number: 46
 
 |AUTHOR|TITLE  |Pages|
 |-------|-------|-------|  
-|<a name="steenbrugge" id="steenbrugge"> </a>Charlotte Steenbrugge|Censorship and Gendered Speech in Sixteenth-Century Bruges: The Case of Cornelis Everaert || 
-|<a name="megna" id="megna"> </a>Paul Megna|Dreadful Didacticism in the Macro Morality Plays ||
-|<a name="pappano" id="pappano"> </a>Margaret Pappano|Priests as Players: A Tretise of Miraclis Pleyinge and Devotional Performance ||
-|<a name="butterworth" id="butterworth"> </a>Philip Butterworth|Governance of the Corpus Christi Play at Beverley ||
-|<a name="twycross" id="twycross"> </a>Meg Twycross|John Blanke’s Hat and its Contexts, Part 2: The Hapsburg Hairnet ||
+|<a name="steenbrugge" id="steenbrugge"> </a>Charlotte Steenbrugge|Censorship and Gendered Speech in Sixteenth-Century Bruges: The Case of Cornelis Everaert |3-40| 
+|<a name="megna" id="megna"> </a>Paul Megna|Dreadful Didacticism in the Macro Morality Plays |41-71|
+|<a name="pappano" id="pappano"> </a>Margaret Pappano|Priests as Players: *A Tretise of Miraclis Pleyinge* and Devotional Performance |72-93|
+|<a name="butterworth" id="butterworth"> </a>Philip Butterworth|Governance of the Corpus Christi Play at Beverley |94-129|
+|<a name="twycross" id="twycross"> </a>Meg Twycross|John Blanke’s Hat and its Contexts, Part 2: The Hapsburg Hairnet |130-164|
 {: .issueContents-table}
 
 ----
