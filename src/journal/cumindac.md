@@ -39,7 +39,8 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Bose, Mishtooni|The Theatre of the Mind in Late-Medieval England [Find](vol38.html#Bose) |38|115-128|  
 |Brown, John|The Devils in the York *Doomsday* [Find](vol11.html#Brown) |11|26-41|  
 |Butterworth, Philip|The Baptisme of Hir Hienes Darrest Sone in Stirviling [Find](vol10.html#Butterworth) |10:1|26-55|  
-|Butterworth, Philip|‘That Gam me Thoght was Good!’: Structuring Games into Medieval English Plays [Find](vol43.html#Butterworth) |43|191-223|  
+|Butterworth, Philip|‘That Gam me Thoght was Good!’: Structuring Games into Medieval English Plays  [Find](vol43.html#Butterworth) |43|191-223|  
+|Butterworth, Philip|Governance of the Corpus Christi Play at Beverley  [Find](vol46.html#Butterworth) |46|94-129|  
 |Butterworth, Philip|Gunnepowdyr, Fyre, and Thondyr [Find](vol07.html#Butterworth) |7:2|68-76|  
 |Butterworth, Philip|Hugh Platte's Collapsible Waggon [Find](vol15.html#Butterworth) |15|126-36|  
 |Butterworth, Philip|Jetties, Pentices, Purprestures, and Ordure: Obstacles to Pageants and Processions in London [Find](vol41.html#Butterworth) |41|166-190|
