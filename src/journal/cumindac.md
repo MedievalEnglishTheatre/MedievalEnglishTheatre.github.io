@@ -31,11 +31,13 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Baldwin, Elizabeth|A Note on the Chester pageant route [Find](vol27.html#Baldwin) |27|131-132|  
 |Bawcutt, Priscilla|A Note on the Term *Morality* [Find](vol28.html#Bawcutt) |28|171-174|  
 |Beckett, Jamie| *Pendens super feretrum*: Fergus, Aelred, and the York Funeral of the Virgin [Find](vol39.html#Beckett) |39|103-125|  
+|Bennett, Philip &amp; Meg Twycross| Appendix: Transcription and Translation of BL MS Cotton Nero D II fols 260v–262r [Find](vol43.html#Twycross) |43|80-107|
 |Blanc, Aurélie| Performing Female Authority: Convent Plays and Lay Spectatorship in the Barking Abbey *Elevatio* and *Visitatio Sepulchri* Dramatic Ceremonies [Find](vol42.html#Blanc) |42|50-89| 
 |Blanc, Aurélie &amp; Olivia Robinson|The Huy *Nativity* from the Seventeenth to the Twenty-First Century: Translation, Play-Back, and Pray-Back [Find](vol40.html#Blanc) |40|62-93|  
 |Bose, Mishtooni|The Theatre of the Mind in Late-Medieval England [Find](vol38.html#Bose) |38|115-128|  
 |Brown, John|The Devils in the York *Doomsday* [Find](vol11.html#Brown) |11|26-41|  
 |Butterworth, Philip|The Baptisme of Hir Hienes Darrest Sone in Stirviling [Find](vol10.html#Butterworth) |10:1|26-55|  
+|Butterworth, Philip|‘That Gam me Thoght was Good!’: Structuring Games into Medieval English Plays [Find](vol43.html#Butterworth) |43|191-223|  
 |Butterworth, Philip|Gunnepowdyr, Fyre, and Thondyr [Find](vol07.html#Butterworth) |7:2|68-76|  
 |Butterworth, Philip|Hugh Platte's Collapsible Waggon [Find](vol15.html#Butterworth) |15|126-36|  
 |Butterworth, Philip|Jetties, Pentices, Purprestures, and Ordure: Obstacles to Pageants and Processions in London [Find](vol41.html#Butterworth) |41|166-190|
@@ -47,6 +49,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Butterworth, Philip|The York Mercers' Pageant Vehicle, 1433-67: Wheels, Steering, and Control [Find](vol01.html#Butterworth) |1:2|72-81|  
 |Butterworth, Philip &amp; Michael Spence|William Parnell, supplier of staging and ingenious devices, and his role in the visit of Elizabeth Woodville to Norwich in 1469 [Find](vol40.html#Butterworth) |40|7-61|  
 | **<a name="C" id="C">C</a>** ||||
+|Carpenter, Sarah|Chivalric Entertainment at the Court of Henry IV: The Jousting Letters of 1401 [Find](vol43.html#CarpenterB) |43|39-79| 
 |Carpenter, Sarah|Drama and Politics: Scotland in the 1530s [Find](vol10.html#CarpenterB) |10:2|96-105|  
 |Carpenter, Sarah|Masks and Mirrors: Questions of Identity in Medieval Morality Drama [Find](vol13.html#Carpenter) |13|7-17|  
 |Carpenter, Sarah|Morality-Play Characters [Find](vol05.html#Carpenter) |5:1|29-52|  
