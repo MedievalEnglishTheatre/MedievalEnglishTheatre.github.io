@@ -20,6 +20,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |AUTHOR|TITLE|VOLUME|PAGES|
 |-------|-------|-------|-------|  
 |**<a name="G" id="G" class="alphaCenter">G</a>**||||
+|Gandy, George|Fragments of Four Fourteenth-Century Miracle Plays from Mont Saint-Michel  [Find](vol42.html#Gandy) |42|10–49|  
 |Gerhardt, Ernst|Salmon-Fishing and Beer-Brewing: The Waterleaders and Drawers of Dee and Chester–s Corpus Christi and Whitsun Plays  [Find](vol41.html#Gerhardt) |41|134–165|  
 |Gibson, James M.|Royal Visits and Civic Ceremony: A Research Opportunity  [Find](vol30.html#Gibson) |30|39–44|  
 |Godfrey, Bob|The Digby *Mary Magdalen* in Performance: a merry peripeteia |37|105–118|  
