@@ -24,6 +24,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Anderson, John|The Newcastle Dragon [Find](vol03.html#Anderson) |3:2|67-68|  
 |Anderson, John|The Newcastle Pageant Care [Find](vol01.html#Anderson) |1:2|60-61|  
 |Atkin, Tamara|The Personages that Speake: Playing with Parts in Early Printed Drama [Find](vol36.html#Atkin) |36|48-69|  
+|Attari, Sadegh|Disjointed Unison: Bodily Porousness and Subversion in the Croxton *Play of the Sacrament* [Find](vol45.html#Attari) |45|68-101|  
 |Axton, Richard|Royal Throne, Royal Bed: John Heywood and Spectacle [Find](vol16.html#Axton) |16|66-67|  
 | **<a name="B" id="B">B</a>** ||||
 |Baldwin, Elizabeth|John Seckerston: The Earl of Derby's Bearward [Find](vol20.html#Baldwin) |20|96-105|  
@@ -32,6 +33,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Bawcutt, Priscilla|A Note on the Term *Morality* [Find](vol28.html#Bawcutt) |28|171-174|  
 |Beckett, Jamie| *Pendens super feretrum*: Fergus, Aelred, and the York Funeral of the Virgin [Find](vol39.html#Beckett) |39|103-125|  
 |Bennett, Philip &amp; Meg Twycross| Appendix: Transcription and Translation of BL MS Cotton Nero D II fols 260v–262r [Find](vol43.html#Twycross) |43|80-107|
+|Blanc, Aurélie| ‘More medieval morality play than 21st century’: Spectacle and its Meaning at the Coronation of King Charles III [Find](vol45.html#Blanc) |45|153-184| 
 |Blanc, Aurélie| Performing Female Authority: Convent Plays and Lay Spectatorship in the Barking Abbey *Elevatio* and *Visitatio Sepulchri* Dramatic Ceremonies [Find](vol42.html#Blanc) |42|50-89| 
 |Blanc, Aurélie &amp; Olivia Robinson|The Huy *Nativity* from the Seventeenth to the Twenty-First Century: Translation, Play-Back, and Pray-Back [Find](vol40.html#Blanc) |40|62-93|  
 |Bose, Mishtooni|The Theatre of the Mind in Late-Medieval England [Find](vol38.html#Bose) |38|115-128|  
@@ -56,6 +58,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Carpenter, Sarah|My Lady Tongue: Thomas Tomkis's *Lingua* [Find](vol24.html#Carpenter) |24|3-14|  
 |Carpenter, Sarah|New Evidence: Vives and Audience-Response to Biblical Drama [Find](vol31.html#Carpenter) |31|3-12|  
 |Carpenter, Sarah|The Places of Foolery: Robert Armin and fooling in Edinburgh [Find](vol37.html#Carpenter) |37|11-26|  
+|Carpenter, Sarah|*Reports of productions: The Seven Sages of Scotland*, Edinburgh July 2023 [Find](vol45.html#Carpenter) |45|185-193|
 |Carpenter, Sarah|The Sixteenth-Century Court Audience: Performers and Spectators [Find](vol19.html#Carpenter) |19|3-14|  
 |Carpenter, Sarah|'To thexaltacyon of noblesse': a herald's account of the marriage of Margaret Tudor and James IV [Find](vol29.html#Carpenter) |29|104-120|  
 |Carpenter, Sarah|Verity's Bible: books, texts, and reading in *Ane Satyre of the Thrie Estaitis* [Find](vol33.html#Carpenter) |33|58-74|  
@@ -71,12 +74,14 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Cavanagh, Dermot|Skelton's *Magnyfycence* and tragic drama [Find](vol27.html#Cavanagh) |27|53-68|  
 |Cecire, Maria Sachiko| *Magnyfycence* Onscreen: Documentary Film as Translation [Find](vol35.html#Cecire) |35|3-22|  
 |Chacòn Carmona, Vicente|Singing Shepherds, Discordant Devils: Music and Song in Medieval Pastoral Plays [Find](vol32.html#Chacon) |32|62-80| 
+|Chambers, Mark|The Disabled Body as Performance: ‘Disabled’ Performers in the Records of Early English Drama  [Find](vol45.html#Chambers) |45|102-125|
 |Chambers, Mark &amp; Gašper Jakovac|Welcoming James the VI &amp; I in the North-East: Civic Performance and Conflict in Durham and Newcastle [Find](vol41.html#Chambers) |41|84-133|
 |Chaplan, Rosemary E.|'Farewell, jentyll Jaffrey': Speech-act Theory and *Mankind* [Find](vol11.html#Chaplan) |11|140-149|  
 |Charpentier, Hélène|Le mal, sa représentation et sa rétribution dans *Le mystère du Viel Testament* [Find](vol11.html#Charpentier) |11|104-115|  
 |Clopper, Lawrence M.|The Chester and the Other English Shepherds' Plays [Find](vol30.html#Clopper) |30|81-98|  
 |Corbett, Anthony G.|God: One Intention of the Author in the York Old Testament Plays from *The Fall of the Angels* to *The Expulsion* [Find](vol14.html#Corbett) |14|102-119|  
 |Corrigan, Vincent &amp; Vicki Hamblin|Music and Performance in Three French Hagiographic Mystery Plays [Find](vol35.html#Corrigan) |35|95-139|  
+|Cowen, Janet|From Huy To Primrose Hill: An Early-Twentieth-Century English Re-Playing of a Fifteenth-Century Liégeois Nativity Play  [Find](vol45.html#Cowen) |45|126-152|  
 |Cowling, Jane|'The Wood Eaves' [Find](vol17.html#Cowling) |17|20-28|  
 |Crouch, David|Paying to See the Play: The Stationholders on the Route of The York Corpus Christi Play in the Fifteenth Century [Find](vol13.html#Crouch) |13|64-11|  
 {: .author-table} 
