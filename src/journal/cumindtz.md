@@ -39,6 +39,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Twycross, Meg|Producing the Journal over Forty Years  [Find](vol40.html#journal) |40|4–6|  
 |Twycross, Meg|‘Say thy lesson, fool’: Idleness tries to teach Ignorance to read  [Find](vol33.html#Twycross) |33|75–121|  
 |Twycross, Meg|The Sun in York (Part One): Illumination, Reflection, and Timekeeping for the Corpus Christi Play  [Find](vol40.html#Twycross) |40|141–157|  
+|Twycross, Meg|The Sun in York (Part Two): Illumination, Reflection, and Timekeeping for the Corpus Christi Play  [Find](vol41.html#Twycross) |41|4–57|  
 |Twycross, Meg|‘They did not come out of an Abbey in Lancashire’: Francis Douce and the manuscript of the Towneley Plays  [Find](vol37.html#Twycross) |37|149–165|  
 |Twycross, Meg|‘Transvestism’ in the Mystery Plays  [Find](vol05.html#TwycrossB) |5:2|123–180|  
 |Twycross, Meg|Two Maid Marians and a Jewess  [Find](vol09.html#Twycross) |9:1|6–7|  
