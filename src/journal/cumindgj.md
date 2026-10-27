@@ -21,6 +21,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |-------|-------|-------|-------|  
 |**<a name="G" id="G" class="alphaCenter">G</a>**||||
 |Gandy, George|Fragments of Four Fourteenth-Century Miracle Plays from Mont Saint-Michel  [Find](vol42.html#Gandy) |42|10–49|  
+|Gerhardt, Ernst|Alimentary Address and the Management of Appetite and Hunger in *Jacob and Esau*  [Find](vol44.html#Gerhardt) |44|91-123|  
 |Gerhardt, Ernst|Salmon-Fishing and Beer-Brewing: The Waterleaders and Drawers of Dee and Chester–s Corpus Christi and Whitsun Plays  [Find](vol41.html#Gerhardt) |41|134–165|  
 |Gibson, James M.|Royal Visits and Civic Ceremony: A Research Opportunity  [Find](vol30.html#Gibson) |30|39–44|  
 |Godfrey, Bob|The Digby *Mary Magdalen* in Performance: a merry peripeteia |37|105–118|  
@@ -71,7 +72,8 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Johnston, Alexandra F.|Touring Players in the Early Years of Elizabeth: What were they Playing?  [Find](vol31.html#Johnston) |31|72–88|  
 |Jones, Malcolm with Meg Twycross &amp; Alan Fletcher|Fart Pryke in Cule: The Pictures  [Find](vol23.html#Twycross) |23|100–121|  
 |Jones, Malcolm|Proclaiming and Prognosticating: World Upside-Down Predicted Official  [Find](vol21.html#Jones) |21|87–102|  
-|Jongenelen, Bas &amp; Ben Parsons|‘In Which Land Were You Born?’: Cultural Transmission in the *Historie van Jan van Beverley*  [Find](vol34.html#Parsons) |34|30–76|  
+|Jongenelen, Bas &amp; Ben Parsons|‘In Which Land Were You Born?’: Cultural Transmission in the *Historie van Jan van Beverley*  [Find](vol34.html#Parsons) |34|30–76|
+|Jongenelen, Bas &amp; Ben Parsons|Understanding the Blanket Toss in Medieval Drama: The case of *Een Cluijt van Lijsgen en Jan Lichthart* [Find](vol44.html#Parsons) |44|48-90|
 {: .author-table}
  
 | [A](cumindac.html#A) | [B](cumindac.html#B) | [C](cumindac.html#C) | [D](cuminddf.html#D) | [E](cuminddf.html#E) | [F](cuminddf.html#F) | [G](cumindgj.html#G) | [H](cumindgj.html#H) | [I](cumindgj.html#I) | [J](cumindgj.html#J) | [K](cumindko.html#K) | [L](cumindko.html#L) | [M](cumindko.html#M) |
