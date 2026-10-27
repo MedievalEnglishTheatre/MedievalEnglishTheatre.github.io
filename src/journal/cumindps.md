@@ -22,6 +22,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |-------|-------|-------|-------|  
 |**<a name="P" id="P" class="alphaCenter">P</a>**||||
 |Palmer, Barbara|Cycling through High Water to Hell  [Find](vol29.html#Palmer) |29|89–103|  
+|Pappano, Margaret|Priests as Players: *A Tretise of Miraclis Pleyinge* and Devotional Performance  [Find](vol46.html#Pappano) |46|72-93| 
 |Parry, David|The York Mystery Cycle at Toronto, 1977  [Find](vol01.html#Parry) |1:1|19–31|  
 |Parsons, Ben &amp; Bas Jongenelen|‘In Which Land Were You Born?’: Cultural Transmission in the *Historie van Jan van Beverley*  [Find](vol34.html#Parsons) |34|30–76|  
 |Parsons, Ben &amp; Bas Jongenelen|Understanding the Blanket Toss in Medieval Drama: The case of *Een Cluijt van Lijsgen en Jan Lichthart* [Find](vol44.html#Parsons) |44|48-90|
@@ -66,6 +67,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Somerset, Alan|‘Beginning in the Middle’: Warwickshire Locations and Families, as Audiences for Early Modern Music and Drama  [Find](vol20.html#Somerset) |20|77–95|  
 |Spence, Michael &amp; Philip Butterworth|William Parnell, supplier of staging and ingenious devices, and his role in the visit of Elizabeth Woodville to Norwich in 1469  [Find](vol40.html#butterworth) |40|7–61|  
 |Steenbrugge, Charlotte|Books of Accounts in *Everyman* and *Elckerlijc*  [Find](vol33.html#steenbrugge) |33|19–44|  
+|Steenbrugge, Charlotte|Censorship and Gendered Speech in Sixteenth-Century Bruges: The Case of Cornelis Everaert  [Find](vol46.html#steenbrugge) |46|3-40|  
 |Steenbrugge, Charlotte|‘I Speke so Miche to 3ow’: Authority, Didacticism, and Audience Address in Middle English sermons and morality plays  [Find](vol38.html#steenbrugge) |38|84–99|  
 |Steenbrugge, Charlotte|‘O, yowr louely wordys’: Latin and Latinate Diction in *Mankind*  [Find](vol31.html#Steenbrugge) |31|28–57|  
 |Stewart, Alan|‘Ydolatricall Sodometrye’: John Bale’s Allegory  [Find](vol15.html#Stewart) |15|3–20|  
