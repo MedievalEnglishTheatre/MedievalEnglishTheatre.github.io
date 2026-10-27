@@ -43,6 +43,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Ragusa, Isa|The Princeton Index of Christian Art  [Find](vol04.html#Ragusa) |4:1|56–60|  
 |Rastall, Richard|Female Rôles in All-Male Casts  [Find](vol07.html#Rastall) |7:1|25–51|  
 |Robinson, Olivia &amp; Aurélie Blanc|The Huy *Nativity* from the Seventeenth to the Twenty-First Century: Translation, Play-Back, and Pray-Back  [Find](vol40.html#blanc) |40|62–93|  
+|Robinson, Olivia &amp; Elisabeth Dutton|Introduction: Reflections on the Medieval Convent Drama Project  [Find](vol42.html#Dutton) |42|1-9|  
 |Rogerson, Margaret|Rediscovering Richard Eurich’s York Festival Triptych  [Find](vol23.html#Rogerson) |23|3–16|  
 |Rose, Martial|The Magi: The Litter and the Wristed Crown  [Find](vol05.html#Rose) |5:1|72–76|  
 |Runnalls, Graham|Jean Fouquet’s ‘Martyrdom of St Apollonia’ and the Medieval French Stage  [Find](vol19.html#Runnalls) |19|81–100|  
