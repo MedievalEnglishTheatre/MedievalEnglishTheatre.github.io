@@ -40,7 +40,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Dutton, Elisabeth|Feminism, Theatre, and Historical Fiction: Anna of Cleves in 2021 [Find](vol43.html#Dutton) |43|224-236| 
 |Dutton, Elisabeth &amp; Perry Mills| Staging John Redford's *Wit and Science* in 2019 [Find](vol41.html#Dutton) |41|191–208| 
 |Dutton, Elisabeth &amp; Olivia Robinson|Introduction: Reflections on the Medieval Convent Drama Project [Find](vol42.html#Dutton) |42|1-9|
-|Dutton, Elisabeth &amp; Olivia Robinson|Last Supper, First Communion: Some Staging Challenges in N.Town and the Huy Nuns’ Play based on Deguileville‘s #Pélerinage de la vie humaine#  [Find](vol43.html#Dutton) |43|124-160|
+|Dutton, Elisabeth &amp; Olivia Robinson|Last Supper, First Communion: Some Staging Challenges in N.Town and the Huy Nuns’ Play based on Deguileville‘s *Pélerinage de la vie humaine*  [Find](vol44.html#Dutton) |44|124-160|
 |**<a name="E" id="E" class="alphaCenter">E</a>**||||
 |Egan, Clare|‘Now Fearing neither Friend nor Foe, to the Worldes Viewe these Verses goe’: Mapping Libel Performance in Early-Modern Devon [Find](vol36.html#Egan) |36|70–103|  
 |Egan, Clare|Reading *Mankind* in a Culture of Defamation [Find](vol40.html#Egan) |40|116–147|  
