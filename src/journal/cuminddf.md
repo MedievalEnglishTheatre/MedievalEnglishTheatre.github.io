@@ -36,7 +36,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Dillon, Janette|Performance Time: Suggestions for a Methodology of Analysis [Find](vol22.html#Dillon) |22|33–51|  
 |Divett, Anthony W.|An Early Reference to Devil’s Masks in the Nottingham Records [Find](vol06.html#Divett) |6:1|28–30|  
 |Dutton, Elisabeth|‘My Boy shall Knowe Himself from Other Men’: Active Spectating, Annunciation, and the St John’s College *Narcissus* [Find](vol38.html#Dutton) |38|68–83| 
-|Dutton, Elisabeth &amp; Perry Mills| Staging John Redford's *Wit and Science* in 2019 [Find](vol41.#Dutton) |41|191–208| 
+|Dutton, Elisabeth &amp; Perry Mills| Staging John Redford's *Wit and Science* in 2019 [Find](vol41.html#Dutton) |41|191–208| 
 |**<a name="E" id="E" class="alphaCenter">E</a>**||||
 |Egan, Clare|‘Now Fearing neither Friend nor Foe, to the Worldes Viewe these Verses goe’: Mapping Libel Performance in Early-Modern Devon [Find](vol36.html#Egan) |36|70–103|  
 |Egan, Clare|Reading *Mankind* in a Culture of Defamation [Find](vol40.html#Egan) |40|116–147|  
