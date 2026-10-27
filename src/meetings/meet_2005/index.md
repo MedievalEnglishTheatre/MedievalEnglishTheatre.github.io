@@ -10,6 +10,7 @@ banner_alt: "METh Title Banner"
 > **University of Southampton** 
 
 The 2005 *Medieval English Theatre* meeting is at the University of Southampton, kindly hosted by John McGavin.  
+
 The subject is **A Sense of Place**.
 
 -  **[Programme](programme_2005.html)**   
