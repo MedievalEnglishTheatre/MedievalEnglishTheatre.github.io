@@ -30,6 +30,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Davis, Nicholas| *Spectacula Christiana*: A Roman Christian Temple for Medieval Drama [Find](vol09.html#Davis) |9:2|125–152|  
 |Davis, Nicholas|The *Tretise of Myraclis Pleyinge*: On Milieu and Authorship [Find](vol12.html#Davis) |12:2|124–151|
 |Deacon, E. Lucy| Remembering through Re-Enacting: Revisiting the Emergence of the Iranian *Ta'zia* Tradition [Find](vol41.html#Deacon) |41|58–83|
+|Deacon, E. Lucy| *Ta’ziyeh-khani* in Iranian Communities: Muharram AH 1439 (AD 2017)  [Find](vol42.html#Deacon) |42|142-180|
 |Dean, William|Some Aspects of the Law of Criminal Procedure in The Trial of Ismael in *Nice Wanton* [Find](vol13.html#Dean) |13|27–38|  
 |Diller, Hans-Jürgen|The Torturers in the English Mystery Plays [Find](vol11.html#Diller) |11|57–65|  
 |Dillon, Janette|John Rastell’s Stage [Find](vol18.html#Dillon) |18|15–45|  
