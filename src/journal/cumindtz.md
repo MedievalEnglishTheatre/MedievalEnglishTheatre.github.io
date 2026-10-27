@@ -31,6 +31,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Twycross, Meg|Forget the 4.30 a.m. start: recovering a palimpsest in the York *Ordo paginarum*  [Find](vol25.html#Twycross) |25|98–152|  
 |Twycross, Meg| *Review*: The Interlude, Linlithgow Palace June 2013  [Find](vol35.html#Twycross) |35|147–152|  
 |Twycross, Meg|John Blanke‘s Hat and its Contexts: Part One: Turbans and Islamic Dress at the Court of Henry VIII  [Find](vol45.html#Twycross) |45|3-67| 
+|Twycross, Meg|John Blanke’s Hat and its Contexts, Part 2: The Hapsburg Hairnet  [Find](vol46.html#Twycross) |46|130-164|
 |Twycross, Meg|The King’s Peace and the Play: the York Corpus Christi Eve Proclamation  [Find](vol29.html#Twycross) |29|121–150|  
 |Twycross, Meg|Kissing Cousins: The Four Daughters of God and the Visitation in the N. Town *Mary Play*  [Find](vol18.html#Twycross) |18|99–141|  
 |Twycross, Meg|The Left-hand-side Theory: A Retraction  [Find](vol14.html#Twycross) |14|77–94|  
