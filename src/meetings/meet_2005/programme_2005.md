@@ -3,7 +3,7 @@ title:  "METh Meeting 2005: Programme"
 layout: page
 banner_image: "/assets/meth_title.jpg"
 banner_alt: "METh Title Banner"
-permalink: /meetings/meet_2005/programme.html
+permalink: /meetings/meet_2005/programme_2005.html
 ---
 
 >### Medieval English Theatre Meeting 19 March 2005
