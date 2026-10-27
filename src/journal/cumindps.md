@@ -24,8 +24,10 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Palmer, Barbara|Cycling through High Water to Hell  [Find](vol29.html#Palmer) |29|89–103|  
 |Parry, David|The York Mystery Cycle at Toronto, 1977  [Find](vol01.html#Parry) |1:1|19–31|  
 |Parsons, Ben &amp; Bas Jongenelen|‘In Which Land Were You Born?’: Cultural Transmission in the *Historie van Jan van Beverley*  [Find](vol34.html#Parsons) |34|30–76|  
+|Parsons, Ben &amp; Bas Jongenelen|Understanding the Blanket Toss in Medieval Drama: The case of *Een Cluijt van Lijsgen en Jan Lichthart* [Find](vol44.html#Parsons) |44|48-90|
 |Pearce, Michael|‘Maskerye claithis’ for James VI and Anna of Denmark  [Find](vol43.html#Pearce) |43|108-123|  
 |Pelt, Nadia Thérèse van|Early English Spectatorship and the ‘Cognitive Turn’  [Find](vol38.html#Pelt) |38|100–114|  
+|Pelt, Nadia Thérèse van|John Blanke’s Wages: No Business like Show Business  [Find](vol44.html#Pelt) |44|3-35| 
 |Pettitt, Thomas| *Carnevale* in Norwich, 1443: Gladman’s Parade and its Continental Connections  [Find](vol39.html#Pettitt) |39|35–76|  
 |Pettitt, Thomas|Protesting Inversions: Charivary as Folk Pageantry and Folk-Law  [Find](vol21.html#Pettitt) |21|21–51|  
 |Pettitt, Thomas|‘This Man is Pyramus’: A Pre-history of the English Mummers Plays  [Find](vol22.html#Pettitt) |22|70–99|  
