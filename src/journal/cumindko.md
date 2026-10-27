@@ -106,6 +106,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Mills, David|The ‘Now’ of ‘Then’  [Find](vol22.html#Mills) |22|3–12|  
 |Mills, David|The Stage Directions in the Manuscripts of the Chester Mystery Cycle  [Find](vol03.html#Mills) |3:1|45–51|  
 |Mills, David|Who are our Customers? Targeting the Chester Audience  [Find](vol20.html#Mills) |20|106–119|  
+|Mills, Perry &amp; Elisabeth Dutton|Staging John Redford’s *Wit and Science* in 2019  [Find](vol41.html#dutton) |41|191-208|  
 |Muir, Lynette|Audiences in the French Medieval Theatre  [Find](vol09.html#Muir) |9:1|8–22|  
 |Muir, Lynette &amp; Peter Meredith|The Corpus Christi Bull, 1264: Latin text with modern English translation  [Find](vol24.html#Meredith) |24|62–78|  
 |Muir, Lynette|Women on the Medieval Stage: The Evidence from France  [Find](vol07.html#Muir) |7:2|107–119|  
