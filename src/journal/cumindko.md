@@ -28,6 +28,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |King, Pamela M.|Elche again: The *Venida* and the *SemanaSanta*  [Find](vol12.html#King) |12:1|4–20|  
 |King, Pamela M.|La Festa d’Elx revisited, August 2003  [Find](vol24.html#King) |24|138–140|  
 |King, Pamela M.|Minority Plays: Two Interludes for Edward VI  [Find](vol15.html#King) |15|87–102|  
+|King, Pamela M.|Perpetually Editing Towneley: A Speculative Textual Note on Mrs Noah’s ‘Stafford Blue’  [Find](vol44.html#King) |44|36-47|  
 |King, Pamela M.|Playing Pentecost in York and Chester: Transformations and Texts  [Find](vol29.html#King) |29|60–74|  
 |King, Pamela M.|Poetics and Beyond: Noisy Bodies and Aural Variations in medieval English outdoor performance  [Find](vol38.html#King) |38|129–144|  
 |King, Pamela M.|Records of Early English Drama: Reflections of a Hardened User  [Find](vol17.html#King) |17|52–57|  
