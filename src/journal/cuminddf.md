@@ -30,6 +30,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Davis, Nicholas| *Spectacula Christiana*: A Roman Christian Temple for Medieval Drama [Find](vol09.html#Davis) |9:2|125–152|  
 |Davis, Nicholas|The *Tretise of Myraclis Pleyinge*: On Milieu and Authorship [Find](vol12.html#Davis) |12:2|124–151|
 |Deacon, E. Lucy| Remembering through Re-Enacting: Revisiting the Emergence of the Iranian *Ta'zia* Tradition [Find](vol41.html#Deacon) |41|58–83|
+|Deacon, E. Lucy| The *Taʿziyeh* Episode of *The Noble Prophet Ayoub*: a Translation  [Find](vol47.html#Deacon) |47|147-173|
 |Deacon, E. Lucy| *Ta’ziyeh-khani* in Iranian Communities: Muharram AH 1439 (AD 2017)  [Find](vol42.html#Deacon) |42|142-180|
 |Dean, William|Some Aspects of the Law of Criminal Procedure in The Trial of Ismael in *Nice Wanton* [Find](vol13.html#Dean) |13|27–38|  
 |Diller, Hans-Jürgen|The Torturers in the English Mystery Plays [Find](vol11.html#Diller) |11|57–65|  
@@ -38,9 +39,11 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Divett, Anthony W.|An Early Reference to Devil’s Masks in the Nottingham Records [Find](vol06.html#Divett) |6:1|28–30|  
 |Dutton, Elisabeth|‘My Boy shall Knowe Himself from Other Men’: Active Spectating, Annunciation, and the St John’s College *Narcissus* [Find](vol38.html#Dutton) |38|68–83| 
 |Dutton, Elisabeth|Feminism, Theatre, and Historical Fiction: Anna of Cleves in 2021 [Find](vol43.html#Dutton) |43|224-236| 
+|Dutton, Elisabeth &amp; Cathy Hume| Staging *The Life of Job*: a Performance Experiment  [Find](vol47.html#Hume) |47|121-146| 
 |Dutton, Elisabeth &amp; Perry Mills| Staging John Redford's *Wit and Science* in 2019 [Find](vol41.html#Dutton) |41|191–208| 
 |Dutton, Elisabeth &amp; Olivia Robinson|Introduction: Reflections on the Medieval Convent Drama Project [Find](vol42.html#Dutton) |42|1-9|
 |Dutton, Elisabeth &amp; Olivia Robinson|Last Supper, First Communion: Some Staging Challenges in N.Town and the Huy Nuns’ Play based on Deguileville‘s *Pélerinage de la vie humaine*  [Find](vol44.html#Dutton) |44|124-160|
+|Dutton, Elisabeth &amp; Charlotte Steebrugge|Framing the Stage and Staging the Frame: *Man’s Desire and Fleeting Beauty*  [Find](vol47.html#Dutton) |47|39-66|
 |**<a name="E" id="E" class="alphaCenter">E</a>**||||
 |Egan, Clare|‘Now Fearing neither Friend nor Foe, to the Worldes Viewe these Verses goe’: Mapping Libel Performance in Early-Modern Devon [Find](vol36.html#Egan) |36|70–103|  
 |Egan, Clare|Reading *Mankind* in a Culture of Defamation [Find](vol40.html#Egan) |40|116–147|  
