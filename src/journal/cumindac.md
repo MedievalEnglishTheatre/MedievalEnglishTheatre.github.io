@@ -21,6 +21,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |AUTHOR|TITLE|VOLUME|PAGES|
 |-------|-------|-------|-------|
 | **<a name="A" id="A">A</a>** ||||
+|Albert, Mandy L.|Cornelis Everaert: *The Play of Great Labour and Meagre Profit*: a Translation [Find](vol47.html#Albert) |47|95-120|  
 |Anderson, John|The Newcastle Dragon [Find](vol03.html#Anderson) |3:2|67-68|  
 |Anderson, John|The Newcastle Pageant Care [Find](vol01.html#Anderson) |1:2|60-61|  
 |Atkin, Tamara|The Personages that Speake: Playing with Parts in Early Printed Drama [Find](vol36.html#Atkin) |36|48-69|  
@@ -52,7 +53,8 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Butterworth, Philip|The York Mercers' Pageant Vehicle, 1433-67: Wheels, Steering, and Control [Find](vol01.html#Butterworth) |1:2|72-81|  
 |Butterworth, Philip &amp; Michael Spence|William Parnell, supplier of staging and ingenious devices, and his role in the visit of Elizabeth Woodville to Norwich in 1469 [Find](vol40.html#Butterworth) |40|7-61|  
 | **<a name="C" id="C">C</a>** ||||
-|Carpenter, Sarah|Chivalric Entertainment at the Court of Henry IV: The Jousting Letters of 1401 [Find](vol43.html#CarpenterB) |43|39-79| 
+|Carlson, Marla|Blindman Farces as Slapstick: Gallebois, Masoupé, and their Guides  [Find](vol47.html#Carlson) |47|9-38|
+|Carpenter, Sarah|Chivalric Entertainment at the Court of Henry IV: The Jousting Letters of 1401 [Find](vol43.html#Carpenter) |43|39-79| 
 |Carpenter, Sarah|Drama and Politics: Scotland in the 1530s [Find](vol10.html#CarpenterB) |10:2|96-105|  
 |Carpenter, Sarah|Masks and Mirrors: Questions of Identity in Medieval Morality Drama [Find](vol13.html#Carpenter) |13|7-17|  
 |Carpenter, Sarah|Morality-Play Characters [Find](vol05.html#Carpenter) |5:1|29-52|  
