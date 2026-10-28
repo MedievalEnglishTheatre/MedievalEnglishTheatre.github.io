@@ -46,6 +46,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Ragusa, Isa|Goethe’s ‘Women’s Parts Played by Men in the Roman Theatre’  [Find](vol06.html#Ragusa) |6:2|96–100|  
 |Ragusa, Isa|The Princeton Index of Christian Art  [Find](vol04.html#Ragusa) |4:1|56–60|  
 |Rastall, Richard|Female Rôles in All-Male Casts  [Find](vol07.html#Rastall) |7:1|25–51|  
+|Ridley, Jacob|*Report of Productions*: Edward’s Boys: *The Enterlude of The Godly Queen Hester*, Christ Church College, Oxford, Friday 28 March 2025  [Find](vol47.html#Ridley) |47|174-179| 
 |Robinson, Olivia &amp; Aurélie Blanc|The Huy *Nativity* from the Seventeenth to the Twenty-First Century: Translation, Play-Back, and Pray-Back  [Find](vol40.html#blanc) |40|62–93|  
 |Robinson, Olivia &amp; Elisabeth Dutton|Introduction: Reflections on the Medieval Convent Drama Project  [Find](vol42.html#Dutton) |42|1-9|  
 |Robinson, Olivia &amp; Elisabeth Dutton|Last Supper, First Communion: Some Staging Challenges in N.Town and the Huy Nuns’ Play based on Deguileville‘s *Pélerinage de la vie humaine*  [Find](vol44.html#Dutton) |44|124-160| 
@@ -70,6 +71,8 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Steenbrugge, Charlotte|Censorship and Gendered Speech in Sixteenth-Century Bruges: The Case of Cornelis Everaert  [Find](vol46.html#steenbrugge) |46|3-40|  
 |Steenbrugge, Charlotte|‘I Speke so Miche to 3ow’: Authority, Didacticism, and Audience Address in Middle English sermons and morality plays  [Find](vol38.html#steenbrugge) |38|84–99|  
 |Steenbrugge, Charlotte|‘O, yowr louely wordys’: Latin and Latinate Diction in *Mankind*  [Find](vol31.html#Steenbrugge) |31|28–57|  
+|Steenbrugge, Charlotte &amp; Elsa Strietman|Cornelis Everaert: *The Play of The Fluctuating Currency*: a Translation  [Find](vol47.html#Steenbrugge) |47|67-94|  
+|Steenbrugge, Charlotte &amp; Elisabeth Dutton|Framing the Stage and Staging the Frame: *Man’s Desire and Fleeting Beauty*  [Find](vol47.html#Dutton) |47|39-66|  
 |Stewart, Alan|‘Ydolatricall Sodometrye’: John Bale’s Allegory  [Find](vol15.html#Stewart) |15|3–20|  
 |Stokes, James|The Beccles Game Place and Local Drama in Early North-East Suffolk  [Find](vol39.html#Stokes) |39|77–102|  
 |Stokes, James|The Lesser Patrons of Greater Somerset: Minor Sponsorship and Local Records  [Find](vol13.html#Stokes) |13|18–26|  
@@ -80,6 +83,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Strietman, Elsa|Biblical Plays in the Low Countries  [Find](vol30.html#Strietman) |30|121–136|  
 |Strietman, Elsa|Report on the Colloquium on Medieval Drama of the Low Countries Middelnederlands Toneel  [Find](vol05.html#Strietman) |5:2|81–82|  
 |Strietman, Elsa, and Peter Happé|Three Dutch Rhetoricians Plays  [Find](vol26.html#Happe) |26|all|  
+|Strietman, Elsa &amp; Charlotte Steenbrugge|Cornelis Everaert: *The Play of The Fluctuating Currency*: a Translation  [Find](vol47.html#Steenbrugge) |47|67-94| 
 |Suematsu, Yoshimichi|A Report on the Children’s Kabuki in Tonami and Komatsu, Japan  [Find](vol22.html#Suematsu) |22|59–69|  
 |Surtz, Ronald E.|The Valencian *Misteri del Rey Herodes*: misogyny, politics, and caste conflict  [Find](vol24.html#Surtz) |24|32–43|  
 {: .author-table} 
