@@ -57,6 +57,7 @@ The later volumes include *summaries* and *PDFs* of one or two pages.
 |Horner, Olga| *The Parliament of Heaven*: theological exposition or legal argument?  [Find](vol25.html#Horner) |25|153–176|  
 |Horner, Olga|Susanna’s Double Life  [Find](vol08.html#Horner) |8:2|76–102|  
 |Horner, Olga|‘Us Must Make Lies’: Witness, Evidence, and Proof in the York *Resurrection*  [Find](vol20.html#Horner) |20|24–76|  
+|Hume, Cathy &amp; Elisabeth Dutton|Staging *The Life of Job*: a Performance Experiment  [Find](vol47.html#Hume) |47|121-146|  
 |Humphrey, Chris|‘To Make a New King’: Seasonal Drama and Local Politics in Norwich, 1443  [Find](vol17.html#Humphrey) |17|29–41|  
 |Humphrey, Chris|The World Upside-Down in Theory and as practice: A New Approach to the Study of Medieval Misrule  [Find](vol21.html#Humphrey) |21|5–20|  
 |Hunt, Alice|The Bright Star of The North: James I and his English Coronation  [Find](vol38.html#Hunt) |38|22–37|  
