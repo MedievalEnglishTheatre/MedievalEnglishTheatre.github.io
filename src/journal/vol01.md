@@ -11,7 +11,7 @@ volume_number: 1
 This volume is currently out of print.
   
 |CONTENTS: Volume 1:1|  
-s| [<img   src="/assets/pdfteal.jpg" align="middle"/>](pdfs/1-1.pdf) |  
+| [<img   src="/assets/pdfteal.jpg" align="middle"/>](pdfs/1-1.pdf) |  
 {: .issueHeader-table}
 
 |AUTHOR|TITLE  |Pages|
