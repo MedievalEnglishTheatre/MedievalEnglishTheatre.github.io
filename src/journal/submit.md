@@ -6,7 +6,7 @@ banner_alt: "BL Harley MS 4425 ( *Roman de la Rose* ) fol 133, detail: the Poet.
 permalink: /journal/submit.html
 ---
 
-Contributors are asked to follow the *METh* house-style; download the [Style Sheet](style_sheet_2.pdf) here.  
+Contributors are asked to follow the *METh* house-style; download the [Style Sheet](style_sheet_3.pdf) here.  
 
 The language of publication is usually English, and though primary texts should normally be quoted in their original language, translations should be supplied for quotations from all other languages, including French and Latin.
 
