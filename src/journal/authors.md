@@ -11,7 +11,7 @@ METh is a peer-reviewed journal, and welcomes the submission of articles for con
 
 Authors are asked to consult the guidance on the submission of articles when preparing manuscripts for consideration.
 
-| [Submit an Article](submit.html) | [Style Sheet](style_sheet.pdf) | [Copyright Request Form](image_copyright.pdf)|
+| [Submit an Article](submit.html) | [Style Sheet](style_sheet_3.pdf) | [Copyright Request Form](image_copyright.pdf)|
 {: .authorIndex-table}
 
 
